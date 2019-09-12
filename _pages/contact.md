@@ -5,6 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 School of Electronics Engineering and Computer Science, Peking University<br>
-No.5 Yiheyuan Road, Haidian District, Beijing, China, 100871<br>
+Haidian District, Beijing, China, 100871<br>
+
 Email: shlw_kevin [at] pku.edu.cn
 
