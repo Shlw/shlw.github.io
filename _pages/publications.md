@@ -14,6 +14,6 @@ author_profile: true
 
 # Not Intended to Publish
 
-<b>[A Note on Lower Digits Extraction Polynomial for Bootstrapping](http://shlw.github.io/_publications/HWY19)</b><br>
+<b>[A Note on Lower Digits Extraction Polynomial for Bootstrapping](https://arxiv.org/abs/1906.02867)</b><br>
 Mingjia Huo, <b>Kewen Wu</b>, Qi Ye.
-<i>[arXiv 2019](https://arxiv.org/abs/1906.02867)</i>.
+<i>arXiv 2019</i>.
