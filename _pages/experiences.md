@@ -5,7 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-## Education
+# Education
 
 * <b>Peking University</b>
     * School of Electronics Engineering and Computer Science <span style="float:right;"> Sept 2016 - Now </span>
@@ -13,7 +13,7 @@ author_profile: true
     * School of Mathematical Science <span style="float:right;"> Sept 2017 - Now </span>
         * B.S., Mathematics and Applied Mathematics
 
-## Research 
+# Research 
 
 * <b>University of California, San Diego</b> <span style="float:right;"> Jun 2019 - Sept 2019 </span>
     * Advisor: [Shachar Lovett](https://cseweb.ucsd.edu/~slovett/home.html)
@@ -25,7 +25,7 @@ author_profile: true
     * Advisor: [Xiaoming Sun](http://www.carch.ac.cn/~xmsun/xmsun.htm)
     * Topic: Various problems in Boolean function analysis, quantum computing, etc.
 
-## Work
+# Work
 
 * <b>Beijing Ching Bei School Education Technology Co., Ltd.</b> <span style="float:right;"> Mar 2017 - Mar 2018 </span>
     * Participated in programming contest related teaching, mainly about combinatorics, data structure, dynamic programming, etc.
