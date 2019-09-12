@@ -12,7 +12,7 @@ author_profile: true
 
 ## Materials
 
-* I (and my friends) put [here](https://github.com/Shlw/Books-and-Exercises) solution to some exercise in books I read.
+* My friends and I put [here](https://github.com/Shlw/Books-and-Exercises) solution to some exercise in books we read.
     * I'm gradually organizing it, as some part isn't provided by me and may be poorly written. 
     * Here is the book list (alphabet order):
         * Computational Complexity : A Modern Approach
