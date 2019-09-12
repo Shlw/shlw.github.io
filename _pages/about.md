@@ -14,4 +14,3 @@ redirect_from:
 * My research interests lie in the general area of theoretical computer science, particularly in complexity theory, data structure & algorithm, cryptography, as well as their interplay and connection with math.
 
 * My name is 吴克文. You can pronounce *Kevin* for *Kewen*.
-
