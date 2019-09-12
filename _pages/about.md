@@ -13,4 +13,4 @@ redirect_from:
 * I'm expected to receive Bachelor's Degree for CS and Math at [Peking University](http://english.pku.edu.cn/) in 2020.
 * My research interests lie in the general area of theoretical computer science, particularly in complexity theory, data structure & algorithm, cryptography, as well as their interplay and connection with math.
 
-* My name is 吴克文. You can pronounce *Kevin* for *Kewen*.
+* My name written in Chinese is 吴克文. You can pronounce *Kevin* for *Kewen*.
