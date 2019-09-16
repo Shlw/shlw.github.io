@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-*All in alphabet order and sorted by first publication date.*
+*All in alphabet order and sorted by first arXiv version.*
 
 ## Preprint
 

@@ -23,9 +23,9 @@ author_profile: true
     * Topic: Seminar on Fully Homomorphic Encryption.
 * <b>Institute of Computing Technology, Chinese Academy of Sciences</b> <span style="float:right;"> Jul 2018 - Jun 2019 </span>
     * Advisor: [Xiaoming Sun](http://www.carch.ac.cn/~xmsun/xmsun.htm)
-    * Topic: Various problems in Boolean function analysis, quantum computing, etc.
+    * Topic: Various problems in Boolean function analysis, circuit synthesis.
 
 ## Work
 
 * <b>Beijing Ching Bei School Education Technology Co., Ltd.</b> <span style="float:right;"> Mar 2017 - Mar 2018 </span>
-    * Participated in programming contest related teaching, mainly about combinatorics, data structure, dynamic programming, etc.
+    * (Part-time job) Participated in programming contest related teaching, mainly about combinatorics, data structure, dynamic programming, etc.
