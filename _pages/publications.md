@@ -4,17 +4,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-*All in alphabet order and sorted by first arXiv version.*
+*All in alphabetic order and sorted by first arXiv version.*
 
 ## Preprint
+
+<b>[Decision list compression by mild random restrictions](https://arxiv.org/abs/1909.10658)</b><br>
+Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
+<i>arXiv 2019</i>.
 
 <b>[Improved bounds for the sunflower lemma](https://arxiv.org/abs/1908.08483)</b><br>
 Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 <i>arXiv 2019</i>.
 
+## 2019
+
 <b>[Optimal Space-Depth Trade-Off of CNOT Circuits in Quantum Logic Synthesis](https://arxiv.org/abs/1907.05087)</b><br>
 Jiaqing Jiang, Xiaoming Sun, Shang-Hua Teng, Bujiao Wu, <b>Kewen Wu</b>, Jialin Zhang.<br>
-<i>arXiv 2019</i>.
+<i>ACM-SIAM Symposium on Discrete Algorithms (SODA), 2020</i>.
 
 ## 2018
 
