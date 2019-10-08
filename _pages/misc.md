@@ -12,11 +12,11 @@ author_profile: true
 
 ## Materials
 
-* I put [here](https://github.com/Shlw/Books-and-Exercises) solution to some exercise in books I read.
-    * I'm gradually organizing it, as some part isn't provided by me and may be poorly written. 
-    * Here is the book list (alphabet order):
+* I put [here](https://github.com/Shlw/Books-and-Exercises) solution to some exercises in books I read.
+    * I'll gradually organizing it, as some part isn't provided by me and may be poorly written. 
+    * Here is the book list (alphabetic order):
         * Computational Complexity : A Modern Approach
-        * Concrete Mathematics: A Foundation for Computer Science
+        * Introduction to Automata Theory, Languages, and Computation
         * Introduction to Modern Cryptography
         * The Probabilistic Method
 
