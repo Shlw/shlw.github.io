@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Experiences"
     url: /experiences/
@@ -8,6 +8,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Misc"
     url: /misc/
