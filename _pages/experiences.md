@@ -28,4 +28,4 @@ author_profile: true
 ## Work
 
 * <b>Beijing Ching Bei School Education Technology Co., Ltd.</b> <span style="float:right;"> Mar 2017 - Mar 2018 </span>
-    * (Part-time job) Participated in programming contest related teaching, mainly about combinatorics, data structure, dynamic programming, etc.
+    * (Part-time job) Participated in programming contest related teaching, mainly about combinatorics, data structures, dynamic programming, etc.
