@@ -8,6 +8,10 @@ author_profile: true
 
 ## Preprint
 
+<b>On the Degree of Boolean Functions as Polynomials over $\mathbb Z_m$</b><br>
+Xiaoming Sun, Yuan Sun, Jiaheng Wang, <b>Kewen Wu</b>, Zhiyu Xia, Yufan Zheng.<br>
+[arXiv](https://arxiv.org/abs/1910.12458)
+
 <b>Decision list compression by mild random restrictions</b><br>
 Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 [arXiv](https://arxiv.org/abs/1909.10658) [ECCC](https://eccc.weizmann.ac.il/report/2019/137/)
@@ -21,7 +25,7 @@ Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 <b>Optimal Space-Depth Trade-Off of CNOT Circuits in Quantum Logic Synthesis</b><br>
 Jiaqing Jiang, Xiaoming Sun, Shang-Hua Teng, Bujiao Wu, <b>Kewen Wu</b>, Jialin Zhang.<br>
 <i>ACM-SIAM Symposium on Discrete Algorithms (SODA), 2020</i>.<br>
-[arXiv](https://arxiv.org/abs/1907.05087)
+[arXiv](https://arxiv.org/abs/1907.05087) [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.13)
 
 ## 2019
 
