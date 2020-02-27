@@ -5,10 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-[Randomness vs structure --- DNF compression and sunflower lemma](../slides/DNF+sunflower.pdf)
+[Randomness vs structure --- DNF compression and sunflower lemma](../slides/DNF+sunflower.pdf)<br>
 with Ryan Alweiss, Shachar Lovett and Jiapeng Zhang.<br>
 Institute for Theoretical Computer Science, Shanghai University of Finance and Economics, Feb 2020
 
-[Decision list compression by mild random restrictions](../slides/DLcompression.pdf) 
+[Decision list compression by mild random restrictions](../slides/DLcompression.pdf)<br>
 with Shachar Lovett and Jiapeng Zhang.<br>
 Institute of Computing Technology, Chinese Academy of Sciences, Oct 2019

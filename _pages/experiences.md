@@ -13,18 +13,6 @@ author_profile: true
     * School of Mathematical Science <span style="float:right;"> Sept 2017 - Now </span>
         * B.S., Mathematics and Applied Mathematics
 
-## Research 
-
-* <b>University of California, San Diego</b> <span style="float:right;"> Jun 2019 - Sept 2019 </span>
-    * Advisor: [Shachar Lovett](https://cseweb.ucsd.edu/~slovett/home.html)
-    * Topic: Sunflower conjecture, DNF sparsification, and intersecting set system.
-* <b>Tsinghua University</b> <span style="float:right;"> May 2019 - Jun 2019 </span>
-    * Advisor: [Andrew Chi-Chih Yao](http://iiis.tsinghua.edu.cn/yao/) and [Yu Yu](http://yuyu.hk/)
-    * Topic: Seminar on Fully Homomorphic Encryption.
-* <b>Institute of Computing Technology, Chinese Academy of Sciences</b> <span style="float:right;"> Jul 2018 - Now </span>
-    * Advisor: [Xiaoming Sun](http://www.carch.ac.cn/~xmsun/xmsun.htm)
-    * Topic: Various problems in Boolean function analysis, circuit synthesis.
-
 ## Work
 
 * <b>Beijing Ching Bei School Education Technology Co., Ltd.</b> <span style="float:right;"> Mar 2017 - Mar 2018 </span>
