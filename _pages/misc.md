@@ -8,20 +8,15 @@ author_profile: true
 ## Contact
 
 * School of Electronics Engineering and Computer Science, Peking University, Haidian District, Beijing, China, 100871
-* Email: shlw_kevin [at] pku.edu.cn
+* Email: shlw_kevin [at] hotmail [dot] com
 
 ## Materials
 
 * I put [here](https://github.com/Shlw/Books-and-Exercises) solution to some exercises in books I read.
-    * I'll gradually organizing it, as some part isn't provided by me and may be poorly written. 
-    * Here is the book list (alphabetic order):
-        * Computational Complexity : A Modern Approach
-        * Introduction to Automata Theory, Languages, and Computation
-        * Introduction to Modern Cryptography
-        * The Probabilistic Method
+    * I'll gradually organize it, as some part isn't provided by me and may be poorly written.
 
 ## Skills
 
 * <b>Computer Languages:</b> C, C++, Python, Sage, LaTeX
-* <b>System:</b> Familiar with Linux (Arch Linux user since 2017)
+* <b>System:</b> Linux
 * <b>Sports:</b> Table tennis, badminton, tennis, billiards

@@ -5,5 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-[Decision list compression by mild random restrictions](../slides/DLcompression.pdf), with Shachar Lovett and Jiapeng Zhang.<br>
-TCS Youth Forum, Institute of Computing Technology, Chinese Academy of Sciences, Oct 2019
+[Randomness vs structure --- DNF compression and sunflower lemma](../slides/DNF+sunflower.pdf)
+with Ryan Alweiss, Shachar Lovett and Jiapeng Zhang.<br>
+Institute for Theoretical Computer Science, Shanghai University of Finance and Economics, Feb 2020
+
+[Decision list compression by mild random restrictions](../slides/DLcompression.pdf) 
+with Shachar Lovett and Jiapeng Zhang.<br>
+Institute of Computing Technology, Chinese Academy of Sciences, Oct 2019
