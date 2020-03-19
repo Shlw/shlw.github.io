@@ -13,6 +13,13 @@ author_profile: true
     * School of Mathematical Science <span style="float:right;"> Sept 2017 - Now </span>
         * B.S., Mathematics and Applied Mathematics
 
+## Teaching
+
+* TA of *Fundamentals of Cryptography*  <span style="float:right;">Peking University, Fall 2019</span>
+* TA of *Randomized Algorithms*  <span style="float:right;">Peking University, Spring 2019</span>
+* TA of *Algorithm Design and Analysis (Honor Track)*  <span style="float:right;">Peking University, Spring 2019</span>
+
+
 ## Work
 
 * <b>Beijing Ching Bei School Education Technology Co., Ltd.</b> <span style="float:right;"> Mar 2017 - Mar 2018 </span>
