@@ -12,7 +12,7 @@ author_profile: true
 
 ## Materials
 
-* I put [here](https://github.com/Shlw/Books-and-Exercises) solution to some exercises in books I read.
+* I put [here](https://github.com/Shlw/Books-and-Exercises) solutions to some exercises in books I read.
     * I'll gradually organize it, as some part isn't provided by me and may be poorly written.
 
 ## Skills
