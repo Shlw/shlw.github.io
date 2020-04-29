@@ -6,22 +6,22 @@ author_profile: true
 ---
 *All in alphabetic order and sorted by first publication date.*
 
-## Preprint
-
-<b>On the Degree of Boolean Functions as Polynomials over $\mathbb Z_m$</b><br>
-Xiaoming Sun, Yuan Sun, Jiaheng Wang, <b>Kewen Wu</b>, Zhiyu Xia, Yufan Zheng.<br>
-[arXiv](https://arxiv.org/abs/1910.12458)
 
 ## 2020
 
+<b>On the Degree of Boolean Functions as Polynomials over $\mathbb Z_m$</b><br>
+Xiaoming Sun, Yuan Sun, Jiaheng Wang, <b>Kewen Wu</b>, Zhiyu Xia, Yufan Zheng.<br>
+<i>International Colloquium on Automata, Languages, and Programming (ICALP), 2020</i>.<br>
+[arXiv](https://arxiv.org/abs/1910.12458)
+
 <b>Decision list compression by mild random restrictions</b><br>
 Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
-<i> ACM Symposium on Theory of Computing (STOC), 2020</i>.<br>
+<i>ACM Symposium on Theory of Computing (STOC), 2020</i>.<br>
 [arXiv](https://arxiv.org/abs/1909.10658)     [ECCC](https://eccc.weizmann.ac.il/report/2019/137/)
 
 <b>Improved bounds for the sunflower lemma</b><br>
 Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
-<i> ACM Symposium on Theory of Computing (STOC), 2020</i>.<br>
+<i>ACM Symposium on Theory of Computing (STOC), 2020</i>.<br>
 [arXiv](https://arxiv.org/abs/1908.08483)     [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)
 
 <b>Optimal Space-Depth Trade-Off of CNOT Circuits in Quantum Logic Synthesis</b><br>
