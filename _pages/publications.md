@@ -17,12 +17,13 @@ Xiaoming Sun, Yuan Sun, Jiaheng Wang, <b>Kewen Wu</b>, Zhiyu Xia, Yufan Zheng.<b
 <b>Decision list compression by mild random restrictions</b><br>
 Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 <i>ACM Symposium on Theory of Computing (STOC), 2020</i>.<br>
-[arXiv](https://arxiv.org/abs/1909.10658)     [ECCC](https://eccc.weizmann.ac.il/report/2019/137/)
+[arXiv](https://arxiv.org/abs/1909.10658)     [ECCC](https://eccc.weizmann.ac.il/report/2019/137/)     [STOC](https://dl.acm.org/doi/10.1145/3357713.3384241)
 
 <b>Improved bounds for the sunflower lemma</b><br>
 Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 <i>ACM Symposium on Theory of Computing (STOC), 2020</i>.<br>
-[arXiv](https://arxiv.org/abs/1908.08483)     [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)
+<b>Best paper award</b><br>
+[arXiv](https://arxiv.org/abs/1908.08483)     [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)     [STOC](https://dl.acm.org/doi/10.1145/3357713.3384234)
 
 <b>Optimal Space-Depth Trade-Off of CNOT Circuits in Quantum Logic Synthesis</b><br>
 Jiaqing Jiang, Xiaoming Sun, Shang-Hua Teng, Bujiao Wu, <b>Kewen Wu</b>, Jialin Zhang.<br>
