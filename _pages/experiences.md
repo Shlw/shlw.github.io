@@ -9,9 +9,9 @@ author_profile: true
 
 * <b>Peking University</b>
     * School of Electronics Engineering and Computer Science <span style="float:right;"> Sept 2016 - Jul 2020 </span>
-        * (B.S., Computer Science)[../slides/Major.pdf] (CS pilot class)
+        * [B.S., Computer Science and Technology](../slides/Major.pdf) (CS pilot class)
     * School of Mathematical Science <span style="float:right;"> Sept 2017 - Jul 2020 </span>
-        * (B.S., Mathematics and Applied Mathematics)[../slides/DoubleMajor.pdf]
+        * [B.S., Mathematics and Applied Mathematics](../slides/DoubleMajor.pdf)
 
 ## Teaching
 
