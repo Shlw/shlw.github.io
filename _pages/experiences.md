@@ -8,10 +8,10 @@ author_profile: true
 ## Education
 
 * <b>Peking University</b>
-    * School of Electronics Engineering and Computer Science <span style="float:right;"> Sept 2016 - Now </span>
-        * B.S., Computer Science (CS pilot class, supervised by [John Hopcroft](http://www.cs.cornell.edu/jeh/))
-    * School of Mathematical Science <span style="float:right;"> Sept 2017 - Now </span>
-        * B.S., Mathematics and Applied Mathematics
+    * School of Electronics Engineering and Computer Science <span style="float:right;"> Sept 2016 - Jul 2020 </span>
+        * (B.S., Computer Science)[../slides/Major.pdf] (CS pilot class)
+    * School of Mathematical Science <span style="float:right;"> Sept 2017 - Jul 2020 </span>
+        * (B.S., Mathematics and Applied Mathematics)[../slides/DoubleMajor.pdf]
 
 ## Teaching
 

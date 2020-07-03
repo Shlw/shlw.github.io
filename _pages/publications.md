@@ -12,7 +12,7 @@ author_profile: true
 <b>On the Degree of Boolean Functions as Polynomials over $\mathbb Z_m$</b><br>
 Xiaoming Sun, Yuan Sun, Jiaheng Wang, <b>Kewen Wu</b>, Zhiyu Xia, Yufan Zheng.<br>
 <i>International Colloquium on Automata, Languages, and Programming (ICALP), 2020</i>.<br>
-[arXiv](https://arxiv.org/abs/1910.12458)
+[arXiv](https://arxiv.org/abs/1910.12458)     [ICALP](https://drops.dagstuhl.de/opus/volltexte/2020/12507/)
 
 <b>Decision list compression by mild random restrictions</b><br>
 Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
