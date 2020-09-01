@@ -8,7 +8,8 @@ author_profile: true
 [Improved bounds for the sunflower lemma](../slides/Sunflower.pdf)<br>
 with Ryan Alweiss, Shachar Lovett and Jiapeng Zhang.<br>
 Institute of Computing Technology, Chinese Academy of Sciences, Mar 2020<br>
-Center on Frontiers of Computing Studies, Peking University, Jul 2020
+Center on Frontiers of Computing Studies, Peking University, Jul 2020<br>
+International Joint Conference on Theoretical Computer Science (IJTCS), Aug 2020
 
 [Decision list compression by mild random restrictions](../slides/DLcompression.pdf)<br>
 with Shachar Lovett and Jiapeng Zhang.<br>
