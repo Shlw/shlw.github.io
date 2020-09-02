@@ -12,4 +12,5 @@ redirect_from:
 * I'm very lucky to have [Avishay Tal](http://www.avishaytal.org/) be my advisor.
 * My research interests lie in the general area of theoretical computer science, particularly complexity theory, data structures & algorithms, cryptography, as well as their interplay and connection with mathematics.
 
-* My name written in Chinese is å´å…‹æ–? The pronunciation of *Kewen* is *Kevin*.
+* My name written in Chinese is Îâ¿ËÎÄ. The pronunciation of *Kewen* is *Kevin*.
+
