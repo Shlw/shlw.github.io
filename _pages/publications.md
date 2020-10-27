@@ -6,6 +6,11 @@ author_profile: true
 ---
 *All in alphabetic order and sorted by first publication date.*
 
+## Preprint
+
+<b>An Improved Sketching Bound for Edit Distance</b><br>
+Ce Jin, Jelani Nelson, <b>Kewen Wu</b><br>
+[arXiv](https://arxiv.org/abs/2010.13170) 
 
 ## 2020
 
