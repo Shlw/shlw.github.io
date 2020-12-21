@@ -14,3 +14,4 @@ redirect_from:
 
 * My name written in Chinese is *吴克文*. You may pronounce *Kewen* as *Kevin*.
 
+* I don't use social media like Twitter, Facebook, Weibo, even though I might have accidentally registered them before.

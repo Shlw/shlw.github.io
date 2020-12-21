@@ -6,10 +6,11 @@ author_profile: true
 ---
 *All in alphabetic order and sorted by first publication date.*
 
-## Preprint
+## 2021
 
 <b>An Improved Sketching Bound for Edit Distance</b><br>
 Ce Jin, Jelani Nelson, <b>Kewen Wu</b><br>
+<i>Symposium on Theoretical Aspects of Computer Science (STACS), 2021</i>.<br>
 [arXiv](https://arxiv.org/abs/2010.13170) 
 
 ## 2020
