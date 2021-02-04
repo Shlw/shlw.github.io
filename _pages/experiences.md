@@ -18,9 +18,3 @@ author_profile: true
 * TA of *Fundamentals of Cryptography*  <span style="float:right;">Peking University, Fall 2019</span>
 * TA of *Randomized Algorithms*  <span style="float:right;">Peking University, Spring 2019</span>
 * TA of *Algorithm Design and Analysis (Honor Track)*  <span style="float:right;">Peking University, Spring 2019</span>
-
-
-## Work
-
-* <b>Beijing Ching Bei School Education Technology Co., Ltd.</b> <span style="float:right;"> Mar 2017 - Mar 2018 </span>
-    * (Part-time job) Participated in programming contest related teaching, mainly about combinatorics, data structures, dynamic programming, etc.
