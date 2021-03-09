@@ -7,7 +7,8 @@ author_profile: true
 
 [An Improved Sketching Bound for Edit Distance](../slides/sketching-editdist.pptx)<br>
 with Ce Jin and Jelani Nelson.<br>
-John Hopcroft Center, Shanghai Jiao Tong University, Jan 2021
+John Hopcroft Center, Shanghai Jiao Tong University, Jan 2021<br>
+Symposium on Theoretical Aspects of Computer Science (STACS), Mar 2021
 
 [Improved bounds for the sunflower lemma](../slides/Sunflower.pdf)<br>
 with Ryan Alweiss, Shachar Lovett and Jiapeng Zhang.<br>
