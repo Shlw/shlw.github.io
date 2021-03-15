@@ -11,7 +11,7 @@ author_profile: true
 <b>An Improved Sketching Bound for Edit Distance</b><br>
 Ce Jin, Jelani Nelson, <b>Kewen Wu</b><br>
 <i>Symposium on Theoretical Aspects of Computer Science (STACS), 2021</i>.<br>
-[arXiv](https://arxiv.org/abs/2010.13170)     [STACS](https://drops.dagstuhl.de/opus/volltexte/2021/13690/) 
+[arXiv](https://arxiv.org/abs/2010.13170) &nbsp;&nbsp;&nbsp;&nbsp; [STACS](https://drops.dagstuhl.de/opus/volltexte/2021/13690/) 
 
 ## 2020
 
@@ -46,8 +46,8 @@ Jiaqing Jiang, Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia.<br>
 <b>On the Relationship between Energy Complexity and other Boolean Function Measures</b><br>
 Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia.<br>
 <i>International Computing and Combinatorics Conference (COCOON), 2019</i>.<br>
-<i>Journal of Combinatorial Optimization, 2021</i>.<br>
-[arXiv](https://arxiv.org/abs/1810.03811)     [COCOON](https://link.springer.com/chapter/10.1007%2F978-3-030-26176-4_43)     [JCO](https://link.springer.com/article/10.1007/s10878-020-00689-8)
+<i>Journal of Combinatorial Optimization (JOCO), 2021</i>.<br>
+[arXiv](https://arxiv.org/abs/1810.03811)     [COCOON](https://link.springer.com/chapter/10.1007%2F978-3-030-26176-4_43)     [JOCO](https://link.springer.com/article/10.1007/s10878-020-00689-8)
 
 ## Not Intended to Publish
 
