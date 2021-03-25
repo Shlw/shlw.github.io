@@ -6,6 +6,12 @@ author_profile: true
 ---
 *All in alphabetic order and sorted by first publication date.*
 
+## Preprints
+
+<b>Fourier Growth of Parity Decision Trees</b><br>
+Uma Girish, Avishay Tal, <b>Kewen Wu</b><br>
+[arXiv](https://arxiv.org/abs/2103.11604) &nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2021/046/)
+
 ## 2021
 
 <b>An Improved Sketching Bound for Edit Distance</b><br>
