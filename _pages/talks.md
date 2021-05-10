@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-[An Improved Sketching Bound for Edit Distance](../slides/sketching-editdist.pptx)<br>
+[An Improved Sketching Algorithm for Edit Distance](../slides/sketching-editdist.pptx)<br>
 with Ce Jin, Jelani Nelson.<br>
 John Hopcroft Center, Shanghai Jiao Tong University, Jan 2021<br>
 Symposium on Theoretical Aspects of Computer Science (STACS), Mar 2021
