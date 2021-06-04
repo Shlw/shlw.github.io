@@ -6,6 +6,12 @@ author_profile: true
 ---
 *All in alphabetic order and sorted by first publication date.*
 
+## Preprints
+
+<b>Perfect Sampling for (Atomic) Lovász Local Lemma</b><br>
+Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
+[Version 1](../slides/PerfectSamplingForAtomicLLL_version1)
+
 ## 2021
 
 <b>Fourier Growth of Parity Decision Trees</b><br>
