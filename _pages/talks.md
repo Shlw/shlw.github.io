@@ -5,6 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
+[Perfect Sampling for (Atomic) Lovász Local Lemma](../slides/PerfectSampling.pptx)<br>
+with Kun He, Xiaoming Sun.<br>
+Institute for Theoretical Computer Science, Shanghai University of Finance and Economics, Jun 2021<br>
+Theory Group at Nanjing University, Jul 2021<br>
+John Hopcroft Center, Shanghai Jiao Tong University, Jul 2021
+
+[Fourier Growth of Parity Decision Trees](../slides/ParityDecisionTree.pptx)<br>
+with Uma Girish, Avishay Tal.<br>
+Center on Frontiers of Computing Studies, Peking University, Jun 2021<br>
+Computational Complexity Conference (CCC), Jul 2021
+
 [An Improved Sketching Algorithm for Edit Distance](../slides/sketching-editdist.pptx)<br>
 with Ce Jin, Jelani Nelson.<br>
 John Hopcroft Center, Shanghai Jiao Tong University, Jan 2021<br>

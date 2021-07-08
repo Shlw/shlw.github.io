@@ -6,12 +6,17 @@ author_profile: true
 ---
 *All in alphabetic order and sorted by first publication date.*
 
+## Preprints
+
+<b>Perfect Sampling for (Atomic) Lovász Local Lemma</b><br>
+Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
+
 ## 2021
 
 <b>Fourier Growth of Parity Decision Trees</b><br>
 Uma Girish, Avishay Tal, <b>Kewen Wu</b><br>
 <i>Computational Complexity Conference (CCC), 2021</i>.<br>
-[arXiv](https://arxiv.org/abs/2103.11604) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2021/046/)
+[arXiv](https://arxiv.org/abs/2103.11604) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2021/046/) &nbsp;&nbsp;&nbsp;&nbsp; [CCC] (https://drops.dagstuhl.de/opus/volltexte/2021/14313/)
 
 <b>An Improved Sketching Algorithm for Edit Distance</b><br>
 Ce Jin, Jelani Nelson, <b>Kewen Wu</b><br>
