@@ -10,6 +10,7 @@ author_profile: true
 
 <b>Perfect Sampling for (Atomic) Lovász Local Lemma</b><br>
 Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
+[arXiv](http://arxiv.org/abs/2107.03932)
 
 ## 2021
 
