@@ -15,6 +15,7 @@ author_profile: true
 
 ## Teaching
 
+* TA of *Pseudorandomness*  <span style="float:right;">University of California, Berkeley, Fall 2021</span>
 * TA of *Fundamentals of Cryptography*  <span style="float:right;">Peking University, Fall 2019</span>
 * TA of *Randomized Algorithms*  <span style="float:right;">Peking University, Spring 2019</span>
 * TA of *Algorithm Design and Analysis (Honor Track)*  <span style="float:right;">Peking University, Spring 2019</span>
