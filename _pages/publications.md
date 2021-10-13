@@ -34,14 +34,14 @@ Xiaoming Sun, Yuan Sun, Jiaheng Wang, <b>Kewen Wu</b>, Zhiyu Xia, Yufan Zheng.<b
 <b>Decision list compression by mild random restrictions</b><br>
 Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 <i>ACM Symposium on Theory of Computing (STOC), 2020</i>.<br>
-<i>Journal of the ACM (JACM), Vol </i>.<br>
-[arXiv](https://arxiv.org/abs/1909.10658) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/137/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384241) &nbsp;&nbsp;&nbsp;&nbsp; [JACM]()
+<i>Journal of the ACM (JACM)</i>.<br>
+[arXiv](https://arxiv.org/abs/1909.10658) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/137/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384241) &nbsp;&nbsp;&nbsp;&nbsp; 
 
 <b>Improved bounds for the sunflower lemma</b><br>
 Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 <i>ACM Symposium on Theory of Computing (STOC), 2020</i>. <b>Best paper award</b><br>
 <i>Annals of Mathematics, Vol 194</i>.<br>
-[arXiv](https://arxiv.org/abs/1908.08483) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)  &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384234) &nbsp;&nbsp;&nbsp;&nbsp; [Annals]()
+[arXiv](https://arxiv.org/abs/1908.08483) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)  &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384234) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Optimal Space-Depth Trade-Off of CNOT Circuits in Quantum Logic Synthesis</b><br>
 Jiaqing Jiang, Xiaoming Sun, Shang-Hua Teng, Bujiao Wu, <b>Kewen Wu</b>, Jialin Zhang.<br>

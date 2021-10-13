@@ -7,11 +7,17 @@ author_profile: true
 
 ## Education
 
+* <b>University of California, Berkeley</b>
+    * Department of Electrical Engineering and Computer Sciences <span style="float:right;"> Aug 2020 - Now </span>
+        * Ph.D. in Computer Science (in progress)
+        * <i>Advisor</i>: [Avishay Tal](https://www.avishaytal.org/)
+
+
 * <b>Peking University</b>
     * School of Electronics Engineering and Computer Science <span style="float:right;"> Sept 2016 - Jul 2020 </span>
-        * [B.S., Computer Science and Technology](../slides/Major.pdf) (CS pilot class)
+        * [B.S. in Computer Science and Technology](../slides/Major.pdf) (CS pilot class)
     * School of Mathematical Science <span style="float:right;"> Sept 2017 - Jul 2020 </span>
-        * [B.S., Mathematics and Applied Mathematics](../slides/DoubleMajor.pdf)
+        * [B.S. in Mathematics and Applied Mathematics](../slides/DoubleMajor.pdf)
 
 ## Teaching
 
