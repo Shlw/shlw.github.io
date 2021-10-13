@@ -11,6 +11,4 @@ author_profile: true
 
 ## Skills
 
-* <b>Computer Languages:</b> C, C++, Python, Sage, LaTeX
-* <b>System:</b> Linux
-* <b>Sports:</b> Table tennis, badminton, tennis, billiards
+* <b>Sports:</b> Table tennis, badminton, billiards, fishing
