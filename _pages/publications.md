@@ -39,7 +39,7 @@ Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 
 <b>Improved bounds for the sunflower lemma</b><br>
 Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
-<i>ACM Symposium on Theory of Computing (STOC), 2020</i>. <b>Best paper award</b><br>
+<i>ACM Symposium on Theory of Computing (STOC), 2020</i>. Best paper award<br>
 <i>Annals of Mathematics, Vol 194</i>.<br>
 [arXiv](https://arxiv.org/abs/1908.08483) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)  &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384234) &nbsp;&nbsp;&nbsp;&nbsp;
 
