@@ -9,6 +9,6 @@ author_profile: true
 
 * Email: shlw_kevin [at] hotmail [dot] com
 
-## Skills
+## Misc
 
 * <b>Sports:</b> Table tennis, badminton, billiards, fishing
