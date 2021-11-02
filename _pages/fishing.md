@@ -10,26 +10,34 @@ author_profile: true
 
 <div id="wrapper">
   <div class="image-container">
-    <img src="http://imgh.us/dog-1718242_960_720.jpg" />
+    <img src="http://imgh.us/heart-1776746_960_720.jpg" />
     <div class="image-caption">
-      <h1_hover>Jacksmelt</h1_hover>
-      <p>Sept/9/2021 at Shorebird Park, Berkeley, CA, US</p>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="http://imgh.us/dog-1718242_960_720.jpg" />
-    <div class="image-caption">
-      <h1_hover>coding is love</h1_hover>
-      <p>para description about this picture.</p>
+      <h1_hover>Surfperch</h1_hover>
+      <p>Oct/31/2021 at Black Sands Beach, Sausalito, CA, US</p>
     </div>
   </div>
 
   <div class="image-container">
     <img src="http://imgh.us/heart-1776746_960_720.jpg" />
     <div class="image-caption">
-      <h1_hover>coding is love</h1_hover>
-      <p>para description about this picture.</p>
+      <h1_hover>Rockfish</h1_hover>
+      <p>Oct/31/2021 at Black Sands Beach, Sausalito, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="http://imgh.us/dog-1718242_960_720.jpg" />
+    <div class="image-caption">
+      <h1_hover>Bass</h1_hover>
+      <p>Oct/15/2021 at Clear Lake, Lake County, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="http://imgh.us/dog-1718242_960_720.jpg" />
+    <div class="image-caption">
+      <h1_hover>Jacksmelt</h1_hover>
+      <p>Sept/9/2021 at Shorebird Park, Berkeley, CA, US</p>
     </div>
   </div>
 </div>
