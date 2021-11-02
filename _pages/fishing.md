@@ -13,7 +13,8 @@ author_profile: true
     <img src="http://imgh.us/heart-1776746_960_720.jpg" />
     <div class="image-caption">
       <h1_hover>Surfperch</h1_hover>
-      <p>Oct/31/2021 at Black Sands Beach, Sausalito, CA, US</p>
+      <p>Oct/31/2021</p>
+      <p>Black Sands Beach, Sausalito, CA, US</p>
     </div>
   </div>
 
@@ -21,7 +22,8 @@ author_profile: true
     <img src="http://imgh.us/heart-1776746_960_720.jpg" />
     <div class="image-caption">
       <h1_hover>Rockfish</h1_hover>
-      <p>Oct/31/2021 at Black Sands Beach, Sausalito, CA, US</p>
+      <p>Oct/31/2021</p>
+      <p>Black Sands Beach, Sausalito, CA, US</p>
     </div>
   </div>
 
@@ -29,7 +31,8 @@ author_profile: true
     <img src="http://imgh.us/dog-1718242_960_720.jpg" />
     <div class="image-caption">
       <h1_hover>Bass</h1_hover>
-      <p>Oct/15/2021 at Clear Lake, Lake County, CA, US</p>
+      <p>Oct/15/2021</p>
+      <p>Clear Lake, Lake County, CA, US</p>
     </div>
   </div>
 
@@ -37,7 +40,8 @@ author_profile: true
     <img src="http://imgh.us/dog-1718242_960_720.jpg" />
     <div class="image-caption">
       <h1_hover>Jacksmelt</h1_hover>
-      <p>Sept/9/2021 at Shorebird Park, Berkeley, CA, US</p>
+      <p>Sept/9/2021</p>
+      <p>Shorebird Park, Berkeley, CA, US</p>
     </div>
   </div>
 </div>
