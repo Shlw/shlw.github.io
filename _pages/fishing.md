@@ -14,8 +14,8 @@ I'm very interested in fishing. Check out the photos below!
   <div class="image-container">
     <img src="../images/fishing/jacksmelt_1.jpg" />
     <div class="image-caption">
-      <h1>Jacksmelt</h1>
-      <p>Sept/9/2021 at Shorebird Park, Berkeley, CA, US</p>
+      <h1_hover>Jacksmelt</h1_hover>
+      <p_hover>Sept/9/2021 at Shorebird Park, Berkeley, CA, US</p_hover>
     </div>
   </div>
 
