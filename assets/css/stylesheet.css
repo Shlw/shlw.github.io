@@ -21,16 +21,16 @@ h1_hover {
 
 .image-container {
   float: left;
-  width: 250px;
-  height: 200px;
+  width: 302px;
+  height: 403px;
   position: relative;
   margin: 10px;
   cursor: pointer;
 }
 
 .image-container img {
-  width: 250px;
-  height: 200px;
+  width: 302px;
+  height: 403px;
   position: absolute;
 }
 
