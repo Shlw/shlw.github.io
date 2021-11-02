@@ -10,7 +10,7 @@ author_profile: true
 
 <div id="wrapper">
   <div class="image-container">
-    <img src="http://imgh.us/heart-1776746_960_720.jpg" />
+    <img src="../images/fishing/surfperch_1.jpg" />
     <div class="image-caption">
       <h1_hover>Surfperch</h1_hover>
       <p>Oct/31/2021</p>
@@ -19,7 +19,7 @@ author_profile: true
   </div>
 
   <div class="image-container">
-    <img src="http://imgh.us/heart-1776746_960_720.jpg" />
+    <img src="../images/fishing/rockfish_1.jpg" />
     <div class="image-caption">
       <h1_hover>Rockfish</h1_hover>
       <p>Oct/31/2021</p>
@@ -28,7 +28,7 @@ author_profile: true
   </div>
 
   <div class="image-container">
-    <img src="http://imgh.us/dog-1718242_960_720.jpg" />
+    <img src="../images/fishing/bass_1.jpg" />
     <div class="image-caption">
       <h1_hover>Bass</h1_hover>
       <p>Oct/15/2021</p>
@@ -37,7 +37,7 @@ author_profile: true
   </div>
 
   <div class="image-container">
-    <img src="http://imgh.us/dog-1718242_960_720.jpg" />
+    <img src="../images/fishing/jacksmelt_1.jpg" />
     <div class="image-caption">
       <h1_hover>Jacksmelt</h1_hover>
       <p>Sept/9/2021</p>
