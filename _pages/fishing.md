@@ -10,13 +10,12 @@ I'm very interested in fishing. Check out the photos below!
 <link rel="stylesheet" href="../assets/css/stylesheet.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<h1>Image caption hover effect using HTML and CSS</h1>
 <div id="wrapper">
   <div class="image-container">
-    <img src="http://imgh.us/pancake-1984716_960_720.jpg" />
+    <img src="../images/fishing/jacksmelt_1.jpg" />
     <div class="image-caption">
-      <h1>coding is love</h1>
-      <p>para description about this picture.</p>
+      <h1>Jacksmelt</h1>
+      <p>Sept/9/2021 at Shorebird Park, Berkeley, CA, US</p>
     </div>
   </div>
 
