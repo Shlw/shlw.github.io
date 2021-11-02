@@ -7,7 +7,7 @@
 }
 
 h1_hover,
-p_hover {
+p {
   margin: 0px;
   padding: 0px;
 }
@@ -21,6 +21,7 @@ h1_hover {
 
 .image-container {
   float: left;
+  width: 250px;
   height: 200px;
   position: relative;
   margin: 10px;
@@ -28,6 +29,7 @@ h1_hover {
 }
 
 .image-container img {
+  width: 250px;
   height: 200px;
   position: absolute;
 }
@@ -55,7 +57,7 @@ h1_hover {
   color: #00bfb6;
 }
 
-.image-caption p_hover {
+.image-caption p {
   text-align: center;
   font-family: 'Overpass Mono', monospace;
   color: #fff;

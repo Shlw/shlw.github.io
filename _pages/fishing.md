@@ -15,7 +15,7 @@ I'm very interested in fishing. Check out the photos below!
     <img src="../images/fishing/jacksmelt_1.jpg" />
     <div class="image-caption">
       <h1_hover>Jacksmelt</h1_hover>
-      <p_hover>Sept/9/2021 at Shorebird Park, Berkeley, CA, US</p_hover>
+      <p>Sept/9/2021 at Shorebird Park, Berkeley, CA, US</p>
     </div>
   </div>
 
@@ -23,7 +23,7 @@ I'm very interested in fishing. Check out the photos below!
     <img src="http://imgh.us/dog-1718242_960_720.jpg" />
     <div class="image-caption">
       <h1_hover>coding is love</h1_hover>
-      <p_hover>para description about this picture.</p_hover>
+      <p>para description about this picture.</p>
     </div>
   </div>
 
@@ -31,7 +31,7 @@ I'm very interested in fishing. Check out the photos below!
     <img src="http://imgh.us/heart-1776746_960_720.jpg" />
     <div class="image-caption">
       <h1_hover>coding is love</h1_hover>
-      <p_hover>para description about this picture.</p_hover>
+      <p>para description about this picture.</p>
     </div>
   </div>
 </div>
