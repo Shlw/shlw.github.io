@@ -48,9 +48,8 @@ h1_hover {
 }
 
 .image-caption h1_hover {
-  padding: 45px 0px 5px 0px;
   text-align: center;
-  margin-left: 100px;
+  margin-left: 0px;
   text-transform: uppercase;
   font-family: 'Indie Flower', cursive;
   font-size: 25px;
