@@ -19,9 +19,9 @@ author_profile: true
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/rockfish_1.jpg" />
+    <img src="../images/fishing/cabezon_1.jpg" />
     <div class="image-caption">
-      <h1_hover>Rockfish</h1_hover>
+      <h1_hover>Cabezon</h1_hover>
       <p>Oct/31/2021</p>
       <p>Black Sands Beach, Sausalito, CA, US</p>
     </div>
