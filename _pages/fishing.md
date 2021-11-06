@@ -5,10 +5,23 @@ permalink: /fishing/
 author_profile: true
 ---
 
+If you go out with me and see me drifted away by current or killed by poisonous fish, or more likely, eaten by *Kraken* or recruited by *Flying Dutchman*, please let my other friends know :)
+
 <link rel="stylesheet" href="../assets/css/stylesheet.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <div id="wrapper">
+
+  <div class="image-container">
+    <img src="../images/fishing/purple_urchin_1.jpg" />
+    <div class="image-caption">
+      <h1_hover>Purple Urchin</h1_hover>
+      <p>Nov/5/2021</p>
+      <p>Mavericks Beach, Half Moon Bay, CA, US</p>
+    </div>
+  </div>
+
+
   <div class="image-container">
     <img src="../images/fishing/surfperch_1.jpg" />
     <div class="image-caption">
