@@ -41,7 +41,7 @@ Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 <i>ACM Symposium on Theory of Computing (STOC), 2020</i>. Best paper award<br>
 <i>Annals of Mathematics, Vol. 194, No. 3, 2021</i>.<br>
-[arXiv](https://arxiv.org/abs/1908.08483) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)  &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384234) &nbsp;&nbsp;&nbsp;&nbsp; [Annals](https://www.jstor.org/stable/10.4007/annals.2021.194.3.5)
+[arXiv](https://arxiv.org/abs/1908.08483) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)  &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384234) &nbsp;&nbsp;&nbsp;&nbsp; [Annals](https://annals.math.princeton.edu/2021/194-3/p05)
 
 <b>Optimal Space-Depth Trade-Off of CNOT Circuits in Quantum Logic Synthesis</b><br>
 Jiaqing Jiang, Xiaoming Sun, Shang-Hua Teng, Bujiao Wu, <b>Kewen Wu</b>, Jialin Zhang.<br>
