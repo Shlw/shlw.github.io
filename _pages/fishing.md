@@ -31,7 +31,7 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/purple_urchin_1.jpg" />
+    <img src="../images/fishing/shore_crab_1.jpg" />
     <div class="image-caption">
       <h1_hover>Shore Crab</h1_hover>
       <p>Nov/20/2021</p>
