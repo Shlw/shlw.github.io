@@ -13,6 +13,24 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/dungeness_crab_1.jpg" />
+    <div class="image-caption">
+      <h1_hover>Dungeness Crab</h1_hover>
+      <p>Nov/25/2021</p>
+      <p>Ocean Beach, San Francisco, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/pacific_mole_crab_1.jpg" />
+    <div class="image-caption">
+      <h1_hover>Pacific Mole Crab</h1_hover>
+      <p>Nov/25/2021</p>
+      <p>Ocean Beach, San Francisco, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/kelp_crab_1.jpg" />
     <div class="image-caption">
       <h1_hover>Kelp Crab</h1_hover>
