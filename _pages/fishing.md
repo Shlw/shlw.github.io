@@ -13,6 +13,16 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/catfish_1.jpg" />
+    <div class="image-caption">
+      <h1_hover>Catfish</h1_hover>
+      <p>Nov/27/2021</p>
+      <p>Lafayette Reservoir Recreation, Lafayette, CA, US</p>
+    </div>
+  </div>
+
+
+  <div class="image-container">
     <img src="../images/fishing/dungeness_crab_1.jpg" />
     <div class="image-caption">
       <h1_hover>Dungeness Crab</h1_hover>
