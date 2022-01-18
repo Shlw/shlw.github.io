@@ -13,6 +13,15 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/black_perch.jpg" />
+    <div class="image-caption">
+      <h1_hover>Black Perch</h1_hover>
+      <p>Jan/17/2022</p>
+      <p>César E. Chávez Park, Berkeley, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/leopard_shark.jpg" />
     <div class="image-caption">
       <h1_hover>Leopard Shark</h1_hover>
