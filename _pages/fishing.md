@@ -13,11 +13,38 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/brown_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Brown Rockfish</h1_hover>
+      <p>Jan/23/2022</p>
+      <p>Emeryville Marina Park, Berkeley, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/black_perch.jpg" />
     <div class="image-caption">
       <h1_hover>Black Perch</h1_hover>
       <p>Jan/17/2022</p>
       <p>César E. Chávez Park, Berkeley, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/pacific_rock_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>Pacific Rock Crab</h1_hover>
+      <p>Jan/1/2022</p>
+      <p>Mavericks Beach, Half Moon Bay, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/red_rock_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>Red Rock Crab</h1_hover>
+      <p>Jan/1/2022</p>
+      <p>Mavericks Beach, Half Moon Bay, CA, US</p>
     </div>
   </div>
 
@@ -31,18 +58,18 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/croaker.jpg" />
+    <img src="../images/fishing/white_croaker.jpg" />
     <div class="image-caption">
-      <h1_hover>Croaker</h1_hover>
+      <h1_hover>White Croaker</h1_hover>
       <p>Dec/4/2021</p>
       <p>Mavericks Beach, Half Moon Bay, CA, US</p>
     </div>
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/catfish.jpg" />
+    <img src="../images/fishing/channel_catfish.jpg" />
     <div class="image-caption">
-      <h1_hover>Catfish</h1_hover>
+      <h1_hover>Channel Catfish</h1_hover>
       <p>Nov/27/2021</p>
       <p>Lafayette Reservoir Recreation, Lafayette, CA, US</p>
     </div>
@@ -70,15 +97,6 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/kelp_crab.jpg" />
     <div class="image-caption">
       <h1_hover>Kelp Crab</h1_hover>
-      <p>Nov/20/2021</p>
-      <p>Mavericks Beach, Half Moon Bay, CA, US</p>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/rock_crab.jpg" />
-    <div class="image-caption">
-      <h1_hover>Rock Crab</h1_hover>
       <p>Nov/20/2021</p>
       <p>Mavericks Beach, Half Moon Bay, CA, US</p>
     </div>
