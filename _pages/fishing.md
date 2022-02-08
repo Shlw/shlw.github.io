@@ -7,6 +7,8 @@ author_profile: true
 
 If you go out with me and see me drifted away by current or killed by poisonous fish, or more likely, eaten by *Kraken* or recruited by *Flying Dutchman*, please let my other friends know :)
 
+*Feel free to check out my video channel (mostly Chinese) [here](https://space.bilibili.com/4833115).*
+
 <link rel="stylesheet" href="../assets/css/stylesheet.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

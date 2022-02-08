@@ -12,7 +12,7 @@ author_profile: true
 Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
 [arXiv](http://arxiv.org/abs/2107.03932)
 
-## 2021
+## Publications
 
 <b>Fourier Growth of Parity Decision Trees</b><br>
 Uma Girish, Avishay Tal, <b>Kewen Wu</b><br>
@@ -23,8 +23,6 @@ Uma Girish, Avishay Tal, <b>Kewen Wu</b><br>
 Ce Jin, Jelani Nelson, <b>Kewen Wu</b><br>
 <i>Symposium on Theoretical Aspects of Computer Science (STACS), 2021</i>.<br>
 [arXiv](https://arxiv.org/abs/2010.13170) &nbsp;&nbsp;&nbsp;&nbsp; [STACS](https://drops.dagstuhl.de/opus/volltexte/2021/13690/) 
-
-## 2020
 
 <b>On the Degree of Boolean Functions as Polynomials over $\mathbb Z_m$</b><br>
 Xiaoming Sun, Yuan Sun, Jiaheng Wang, <b>Kewen Wu</b>, Zhiyu Xia, Yufan Zheng.<br>
@@ -47,8 +45,6 @@ Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang.<br>
 Jiaqing Jiang, Xiaoming Sun, Shang-Hua Teng, Bujiao Wu, <b>Kewen Wu</b>, Jialin Zhang.<br>
 <i>ACM-SIAM Symposium on Discrete Algorithms (SODA), 2020</i>.<br>
 [arXiv](https://arxiv.org/abs/1907.05087) &nbsp;&nbsp;&nbsp;&nbsp; [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.13)
-
-## 2019
 
 <b>Structured decomposition for reversible Boolean functions</b><br>
 Jiaqing Jiang, Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia.<br>
