@@ -15,6 +15,42 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/striped_seaperch.jpg" />
+    <div class="image-caption">
+      <h1_hover>Striped Seaperch</h1_hover>
+      <p>Feb/13/2022</p>
+      <p>Stump Beach, Jenner, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/calico_surfperch.jpg" />
+    <div class="image-caption">
+      <h1_hover>Calico Surfperch</h1_hover>
+      <p>Feb/13/2022</p>
+      <p>Stump Beach, Jenner, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/barred_surfperch.jpg" />
+    <div class="image-caption">
+      <h1_hover>Barred Surfperch</h1_hover>
+      <p>Feb/13/2022</p>
+      <p>Stump Beach, Jenner, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/silver_surfperch.jpg" />
+    <div class="image-caption">
+      <h1_hover>Silver Surfperch</h1_hover>
+      <p>Feb/13/2022</p>
+      <p>Stump Beach, Jenner, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/brown_rockfish.jpg" />
     <div class="image-caption">
       <h1_hover>Brown Rockfish</h1_hover>
@@ -119,16 +155,6 @@ If you go out with me and see me drifted away by current or killed by poisonous 
       <h1_hover>Purple Urchin</h1_hover>
       <p>Nov/6/2021</p>
       <p>Mavericks Beach, Half Moon Bay, CA, US</p>
-    </div>
-  </div>
-
-
-  <div class="image-container">
-    <img src="../images/fishing/surfperch.jpg" />
-    <div class="image-caption">
-      <h1_hover>Surfperch</h1_hover>
-      <p>Oct/31/2021</p>
-      <p>Black Sands Beach, Sausalito, CA, US</p>
     </div>
   </div>
 
