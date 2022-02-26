@@ -15,6 +15,15 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/bat_ray.jpg" />
+    <div class="image-caption">
+      <h1_hover>Bat Ray</h1_hover>
+      <p>Feb/25/2022</p>
+      <p>César E. Chávez Park, Berkeley, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/kelp_greenling_male.jpg" />
     <div class="image-caption">
       <h1_hover>Kelp Greenling (Male)</h1_hover>
