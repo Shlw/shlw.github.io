@@ -15,6 +15,33 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/bluegill.jpg" />
+    <div class="image-caption">
+      <h1_hover>Bluegill</h1_hover>
+      <p>Apr/4/2022</p>
+      <p>Brentwood Marina, Brentwood, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/redear_sunfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Redear Sunfish</h1_hover>
+      <p>Apr/4/2022</p>
+      <p>Brentwood Marina, Brentwood, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/crayfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Crayfish</h1_hover>
+      <p>Apr/4/2022</p>
+      <p>Brentwood Marina, Brentwood, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/bat_ray.jpg" />
     <div class="image-caption">
       <h1_hover>Bat Ray</h1_hover>
