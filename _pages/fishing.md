@@ -15,6 +15,15 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/european_green_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>European Green Crab</h1_hover>
+      <p>Apr/5/2022</p>
+      <p>Albany Beach, Albany, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/bluegill.jpg" />
     <div class="image-caption">
       <h1_hover>Bluegill</h1_hover>
@@ -92,6 +101,15 @@ If you go out with me and see me drifted away by current or killed by poisonous 
       <h1_hover>Silver Surfperch</h1_hover>
       <p>Feb/13/2022</p>
       <p>Stump Beach, Jenner, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/slender_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>Slender Crab</h1_hover>
+      <p>Jan/27/2022</p>
+      <p>César E. Chávez Park, Berkeley, CA, US</p>
     </div>
   </div>
 
