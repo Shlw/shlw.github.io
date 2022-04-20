@@ -15,6 +15,24 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/grass_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Grass Rockfish</h1_hover>
+      <p>Apr/19/2022</p>
+      <p>Mavericks Beach, Half Moon Bay, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/monkeyface_prickleback.jpg" />
+    <div class="image-caption">
+      <h1_hover>Monkeyface Prickleback</h1_hover>
+      <p>Apr/19/2022</p>
+      <p>Mavericks Beach, Half Moon Bay, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/european_green_crab.jpg" />
     <div class="image-caption">
       <h1_hover>European Green Crab</h1_hover>
