@@ -15,6 +15,33 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/nuttall_cockle.jpg" />
+    <div class="image-caption">
+      <h1_hover>Nuttall Cockle</h1_hover>
+      <p>Apr/23/2022</p>
+      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/washington_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Washington Clam</h1_hover>
+      <p>Apr/23/2022</p>
+      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/gaper_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Gaper Clam</h1_hover>
+      <p>Apr/23/2022</p>
+      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/grass_rockfish.jpg" />
     <div class="image-caption">
       <h1_hover>Grass Rockfish</h1_hover>
