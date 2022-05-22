@@ -18,17 +18,35 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/nuttall_cockle.jpg" />
     <div class="image-caption">
       <h1_hover>Nuttall Cockle</h1_hover>
-      <p>Apr/23/2022</p>
+      <p>May/21/2022</p>
       <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
     </div>
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/washington_clam.jpg" />
+    <img src="../images/fishing/manila_clam.jpg" />
     <div class="image-caption">
-      <h1_hover>Washington Clam</h1_hover>
-      <p>Apr/23/2022</p>
-      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+      <h1_hover>Manila Clam</h1_hover>
+      <p>May/19/2022</p>
+      <p>Upton Beach, Stinson Beach, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/ghost_shrimp.jpg" />
+    <div class="image-caption">
+      <h1_hover>Ghost Shrimp</h1_hover>
+      <p>May/19/2022</p>
+      <p>Upton Beach, Stinson Beach, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/red_rock_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>Red Rock Crab</h1_hover>
+      <p>May/19/2022</p>
+      <p>Upton Beach, Stinson Beach, CA, US</p>
     </div>
   </div>
 
@@ -36,6 +54,15 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/gaper_clam.jpg" />
     <div class="image-caption">
       <h1_hover>Gaper Clam</h1_hover>
+      <p>May/19/2022</p>
+      <p>Upton Beach, Stinson Beach, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/washington_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Washington Clam</h1_hover>
       <p>Apr/23/2022</p>
       <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
     </div>
@@ -180,15 +207,6 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/pacific_rock_crab.jpg" />
     <div class="image-caption">
       <h1_hover>Pacific Rock Crab</h1_hover>
-      <p>Jan/1/2022</p>
-      <p>Mavericks Beach, Half Moon Bay, CA, US</p>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/red_rock_crab.jpg" />
-    <div class="image-caption">
-      <h1_hover>Red Rock Crab</h1_hover>
       <p>Jan/1/2022</p>
       <p>Mavericks Beach, Half Moon Bay, CA, US</p>
     </div>
