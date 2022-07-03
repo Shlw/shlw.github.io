@@ -15,6 +15,15 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/littleneck_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Littleneck Clam</h1_hover>
+      <p>Jul/2/2022</p>
+      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/bull_frog.jpg" />
     <div class="image-caption">
       <h1_hover>Bull Frog</h1_hover>
