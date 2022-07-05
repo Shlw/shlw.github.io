@@ -15,11 +15,83 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/brown_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Brown Rockfish</h1_hover>
+      <p>Jul/4/2022</p>
+      <p>Santa Cruz, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/vermilion_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Vermilion Rockfish</h1_hover>
+      <p>Jul/4/2022</p>
+      <p>Santa Cruz, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/china_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>China Rockfish</h1_hover>
+      <p>Jul/4/2022</p>
+      <p>Santa Cruz, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/gopher_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Gopher Rockfish</h1_hover>
+      <p>Jul/4/2022</p>
+      <p>Santa Cruz, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/california_sea_cucumber.jpg" />
+    <div class="image-caption">
+      <h1_hover>California Sea Cucumber</h1_hover>
+      <p>Jul/4/2022</p>
+      <p>Santa Cruz, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/round_scad.jpg" />
+    <div class="image-caption">
+      <h1_hover>Round Scad</h1_hover>
+      <p>Jul/4/2022</p>
+      <p>Santa Cruz, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/jacksmelt.jpg" />
+    <div class="image-caption">
+      <h1_hover>Jacksmelt</h1_hover>
+      <p>Jul/4/2022</p>
+      <p>Santa Cruz, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/littleneck_clam.jpg" />
     <div class="image-caption">
       <h1_hover>Littleneck Clam</h1_hover>
       <p>Jul/2/2022</p>
-      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+      <p>Bodega Bay, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/ghost_shrimp.jpg" />
+    <div class="image-caption">
+      <h1_hover>Ghost Shrimp</h1_hover>
+      <p>Jul/2/2022</p>
+      <p>Bodega Bay, CA, US</p>
     </div>
   </div>
 
@@ -37,7 +109,7 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <div class="image-caption">
       <h1_hover>Geoduck Clam</h1_hover>
       <p>Jun/18/2022</p>
-      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+      <p>Bodega Bay, CA, US</p>
     </div>
   </div>
 
@@ -46,7 +118,7 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <div class="image-caption">
       <h1_hover>Sea Slug</h1_hover>
       <p>Jun/18/2022</p>
-      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+      <p>Bodega Bay, CA, US</p>
     </div>
   </div>
 
@@ -55,7 +127,7 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <div class="image-caption">
       <h1_hover>Brittle Stars</h1_hover>
       <p>Jun/18/2022</p>
-      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+      <p>Bodega Bay, CA, US</p>
     </div>
   </div>
 
@@ -64,7 +136,7 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <div class="image-caption">
       <h1_hover>Nuttall Cockle</h1_hover>
       <p>May/21/2022</p>
-      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+      <p>Bodega Bay, CA, US</p>
     </div>
   </div>
 
@@ -72,15 +144,6 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/manila_clam.jpg" />
     <div class="image-caption">
       <h1_hover>Manila Clam</h1_hover>
-      <p>May/19/2022</p>
-      <p>Upton Beach, Stinson Beach, CA, US</p>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/ghost_shrimp.jpg" />
-    <div class="image-caption">
-      <h1_hover>Ghost Shrimp</h1_hover>
       <p>May/19/2022</p>
       <p>Upton Beach, Stinson Beach, CA, US</p>
     </div>
@@ -109,7 +172,7 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <div class="image-caption">
       <h1_hover>Washington Clam</h1_hover>
       <p>Apr/23/2022</p>
-      <p>Campbell Cove Beach, Salmon Creek, Jenner, CA, US</p>
+      <p>Bodega Bay, CA, US</p>
     </div>
   </div>
 
@@ -344,15 +407,6 @@ If you go out with me and see me drifted away by current or killed by poisonous 
       <h1_hover>Largemouth Bass</h1_hover>
       <p>Oct/15/2021</p>
       <p>Clear Lake, Lake County, CA, US</p>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/jacksmelt.jpg" />
-    <div class="image-caption">
-      <h1_hover>Jacksmelt</h1_hover>
-      <p>Sept/9/2021</p>
-      <p>Shorebird Park, Berkeley, CA, US</p>
     </div>
   </div>
 </div>
