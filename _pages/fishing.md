@@ -294,15 +294,6 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/brown_rockfish.jpg" />
-    <div class="image-caption">
-      <h1_hover>Brown Rockfish</h1_hover>
-      <p>Jan/23/2022</p>
-      <p>Emeryville Marina Park, Berkeley, CA, US</p>
-    </div>
-  </div>
-
-  <div class="image-container">
     <img src="../images/fishing/black_perch.jpg" />
     <div class="image-caption">
       <h1_hover>Black Perch</h1_hover>
