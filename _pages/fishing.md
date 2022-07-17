@@ -15,6 +15,15 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/pea_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>Pea Crab</h1_hover>
+      <p>Jul/16/2022</p>
+      <p>Bodega Bay, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/moon_snail.jpg" />
     <div class="image-caption">
       <h1_hover>Moon Snail</h1_hover>
