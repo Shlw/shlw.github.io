@@ -15,6 +15,24 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/moon_snail.jpg" />
+    <div class="image-caption">
+      <h1_hover>Moon Snail</h1_hover>
+      <p>Jul/16/2022</p>
+      <p>Bodega Bay, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/ghost_shrimp.jpg" />
+    <div class="image-caption">
+      <h1_hover>Ghost Shrimp</h1_hover>
+      <p>Jul/16/2022</p>
+      <p>Bodega Bay, CA, US</p>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/brown_rockfish.jpg" />
     <div class="image-caption">
       <h1_hover>Brown Rockfish</h1_hover>
@@ -81,15 +99,6 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/littleneck_clam.jpg" />
     <div class="image-caption">
       <h1_hover>Littleneck Clam</h1_hover>
-      <p>Jul/2/2022</p>
-      <p>Bodega Bay, CA, US</p>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/ghost_shrimp.jpg" />
-    <div class="image-caption">
-      <h1_hover>Ghost Shrimp</h1_hover>
       <p>Jul/2/2022</p>
       <p>Bodega Bay, CA, US</p>
     </div>
