@@ -7,12 +7,38 @@ author_profile: true
 
 If you go out with me and see me drifted away by current or killed by poisonous fish, or more likely, eaten by *Kraken* or recruited by *Flying Dutchman*, please let my other friends know :)
 
-*Feel free to check out my video channel (mostly Chinese) [here](https://space.bilibili.com/4833115).*
-
 <link rel="stylesheet" href="../assets/css/stylesheet.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <div id="wrapper">
+
+  <div class="image-container">
+    <img src="../images/fishing/starry_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Starry Rockfish</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/yelloweye_rockfish_juvenile.jpg" />
+    <div class="image-caption">
+      <h1_hover>Yelloweye Rockfish (Juvenile)</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/bocaccio.jpg" />
+    <div class="image-caption">
+      <h1_hover>Bocaccio</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/largemouth_bass.jpg" />
+    <div class="image-caption">
+      <h1_hover>Largemouth Bass</h1_hover>
+    </div>
+  </div>
 
   <div class="image-container">
     <img src="../images/fishing/shiner_perch.jpg" />
@@ -22,37 +48,9 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/redtail_perch.jpg" />
-    <div class="image-caption">
-      <h1_hover>Redtail Perch</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
     <img src="../images/fishing/buffalo_sculpin.jpg" />
     <div class="image-caption">
       <h1_hover>Buffalo Sculpin</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/pea_crab.jpg" />
-    <div class="image-caption">
-      <h1_hover>Pea Crab</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/moon_snail.jpg" />
-    <div class="image-caption">
-      <h1_hover>Moon Snail</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/ghost_shrimp.jpg" />
-    <div class="image-caption">
-      <h1_hover>Ghost Shrimp</h1_hover>
     </div>
   </div>
 
@@ -85,86 +83,9 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/california_sea_cucumber.jpg" />
-    <div class="image-caption">
-      <h1_hover>California Sea Cucumber</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
     <img src="../images/fishing/jacksmelt.jpg" />
     <div class="image-caption">
       <h1_hover>Jacksmelt</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/littleneck_clam.jpg" />
-    <div class="image-caption">
-      <h1_hover>Littleneck Clam</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/bull_frog.jpg" />
-    <div class="image-caption">
-      <h1_hover>Bull Frog</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/geoduck_clam.jpg" />
-    <div class="image-caption">
-      <h1_hover>Geoduck Clam</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/sea_slug.jpg" />
-    <div class="image-caption">
-      <h1_hover>Sea Slug</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/brittle_stars.jpg" />
-    <div class="image-caption">
-      <h1_hover>Brittle Stars</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/nuttall_cockle.jpg" />
-    <div class="image-caption">
-      <h1_hover>Nuttall Cockle</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/manila_clam.jpg" />
-    <div class="image-caption">
-      <h1_hover>Manila Clam</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/red_rock_crab.jpg" />
-    <div class="image-caption">
-      <h1_hover>Red Rock Crab</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/gaper_clam.jpg" />
-    <div class="image-caption">
-      <h1_hover>Gaper Clam</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/washington_clam.jpg" />
-    <div class="image-caption">
-      <h1_hover>Washington Clam</h1_hover>
     </div>
   </div>
 
@@ -183,9 +104,9 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/european_green_crab.jpg" />
+    <img src="../images/fishing/redtail_perch.jpg" />
     <div class="image-caption">
-      <h1_hover>European Green Crab</h1_hover>
+      <h1_hover>Redtail Perch</h1_hover>
     </div>
   </div>
 
@@ -246,23 +167,9 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/slender_crab.jpg" />
-    <div class="image-caption">
-      <h1_hover>Slender Crab</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
     <img src="../images/fishing/black_perch.jpg" />
     <div class="image-caption">
       <h1_hover>Black Perch</h1_hover>
-    </div>
-  </div>
-
-  <div class="image-container">
-    <img src="../images/fishing/pacific_rock_crab.jpg" />
-    <div class="image-caption">
-      <h1_hover>Pacific Rock Crab</h1_hover>
     </div>
   </div>
 
@@ -284,6 +191,97 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/channel_catfish.jpg" />
     <div class="image-caption">
       <h1_hover>Channel Catfish</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/cabezon.jpg" />
+    <div class="image-caption">
+      <h1_hover>Cabezon</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/geoduck_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Geoduck Clam</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/littleneck_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Littleneck Clam</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/nuttall_cockle.jpg" />
+    <div class="image-caption">
+      <h1_hover>Nuttall Cockle</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/manila_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Manila Clam</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/gaper_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Gaper Clam</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/washington_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Washington Clam</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/bull_frog.jpg" />
+    <div class="image-caption">
+      <h1_hover>Bull Frog</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/moon_snail.jpg" />
+    <div class="image-caption">
+      <h1_hover>Moon Snail</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/california_sea_cucumber.jpg" />
+    <div class="image-caption">
+      <h1_hover>California Sea Cucumber</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/purple_urchin.jpg" />
+    <div class="image-caption">
+      <h1_hover>Purple Urchin</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/sea_slug.jpg" />
+    <div class="image-caption">
+      <h1_hover>Sea Slug</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/brittle_stars.jpg" />
+    <div class="image-caption">
+      <h1_hover>Brittle Stars</h1_hover>
     </div>
   </div>
 
@@ -316,25 +314,47 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/purple_urchin.jpg" />
+    <img src="../images/fishing/pea_crab.jpg" />
     <div class="image-caption">
-      <h1_hover>Purple Urchin</h1_hover>
+      <h1_hover>Pea Crab</h1_hover>
     </div>
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/cabezon.jpg" />
+    <img src="../images/fishing/pacific_rock_crab.jpg" />
     <div class="image-caption">
-      <h1_hover>Cabezon</h1_hover>
+      <h1_hover>Pacific Rock Crab</h1_hover>
     </div>
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/largemouth_bass.jpg" />
+    <img src="../images/fishing/slender_crab.jpg" />
     <div class="image-caption">
-      <h1_hover>Largemouth Bass</h1_hover>
+      <h1_hover>Slender Crab</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/european_green_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>European Green Crab</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/ghost_shrimp.jpg" />
+    <div class="image-caption">
+      <h1_hover>Ghost Shrimp</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/red_rock_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>Red Rock Crab</h1_hover>
     </div>
   </div>
 </div>
 
-*These are not necessarily the first catches. I'll update them once I shoot better photos.*
+*Feel free to check out my video channel (mostly Chinese) [here](https://space.bilibili.com/4833115).*
+
