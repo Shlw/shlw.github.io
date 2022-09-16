@@ -55,6 +55,13 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
+    <img src="../images/fishing/round_goby.jpg" />
+    <div class="image-caption">
+      <h1_hover>Round Goby</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/brown_rockfish.jpg" />
     <div class="image-caption">
       <h1_hover>Brown Rockfish</h1_hover>

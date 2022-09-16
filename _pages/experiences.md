@@ -19,9 +19,18 @@ author_profile: true
     * School of Mathematical Science <span style="float:right;"> Sept 2017 - Jul 2020 </span>
         * [B.S. in Mathematics and Applied Mathematics](../slides/DoubleMajor.pdf)
 
+## Work 
+
+* <b>NTT Research, Sunnyvale</b><span style="float:right;"> Aug 2022 - Dec 2022 </span>
+    * Part-time Intern on (theoretical) cryptography hosted by [Justin Holmgren](http://justinholmgren.com/)
+
+
+* <b>Google Research, Mountain View</b><span style="float:right;"> Jun 2022 - Aug 2022 </span>
+    * Full-time Student Researcher on differential privacy hosted by [Pritish Kamath](https://pritishkamath.github.io/)
+
 ## Teaching
 
-* TA of *Pseudorandomness*  <span style="float:right;">University of California, Berkeley, Fall 2021</span>
+* TA of [*Pseudorandomness*](https://www.avishaytal.org/pseudorandomness)  <span style="float:right;">University of California, Berkeley, Fall 2021</span>
 * TA of *Fundamentals of Cryptography*  <span style="float:right;">Peking University, Fall 2019</span>
 * TA of *Randomized Algorithms*  <span style="float:right;">Peking University, Spring 2019</span>
 * TA of *Algorithm Design and Analysis (Honor Track)*  <span style="float:right;">Peking University, Spring 2019</span>
