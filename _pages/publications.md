@@ -8,15 +8,29 @@ author_profile: true
 
 ## Preprints
 
-<b>Improved Bounds for Sampling Solutions of Random CNF Formulas</b><br>
-Kun He, <b>Kewen Wu</b>, Kuan Yang<br>
-[arXiv](https://arxiv.org/abs/2207.11892)
+<b>XOR-Lifting and Fourier Growth of Communication Protocols</b><br>
+Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
+[arXiv]()
+
+<b>On Differentially Private Counting on Trees</b><br>
+Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, <b>Kewen Wu</b><br>
+[arXiv]()
 
 <b>Perfect Sampling for (Atomic) Lovász Local Lemma</b><br>
 Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
 [arXiv](http://arxiv.org/abs/2107.03932)
 
 ## Publications
+
+<b>Improved Bounds for Sampling Solutions of Random CNF Formulas</b><br>
+Kun He, <b>Kewen Wu</b>, Kuan Yang<br>
+<i>ACM-SIAM Symposium on Discrete Algorithms (SODA), 2023</i>.<br>
+[arXiv](https://arxiv.org/abs/2207.11892) &nbsp;&nbsp;&nbsp;&nbsp; [SODA]()
+
+<b>On the Generalized Shuffle-Exchange Problem</b><br>
+Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia<br>
+<i>Pure and Applied Mathematics Quarterly (PAMQ), 2022</i>.<br>
+[PAMQ](https://intlpress.com/site/pub/pages/journals/items/pamq/_home/acceptedpapers/index.php)
 
 <b>Fourier Growth of Parity Decision Trees</b><br>
 Uma Girish, Avishay Tal, <b>Kewen Wu</b><br>
