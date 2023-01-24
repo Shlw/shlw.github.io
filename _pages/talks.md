@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+[Improved Bounds for Sampling Solutions of Random CNF Formulas](../slides/RandomSAT.pptx)<br>
+with Kun He, Kuan Yang.<br>
+ACM-SIAM Symposium on Discrete Algorithms (SODA), Jan 2023
+
 [Perfect Sampling for (Atomic) Lovász Local Lemma](../slides/PerfectSampling.pptx)<br>
 with Kun He, Xiaoming Sun.<br>
 Institute for Theoretical Computer Science, Shanghai University of Finance and Economics, Jun 2021<br>

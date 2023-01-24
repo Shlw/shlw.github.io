@@ -25,7 +25,7 @@ Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
 <b>Improved Bounds for Sampling Solutions of Random CNF Formulas</b><br>
 Kun He, <b>Kewen Wu</b>, Kuan Yang<br>
 <i>ACM-SIAM Symposium on Discrete Algorithms (SODA), 2023</i>.<br>
-[arXiv](https://arxiv.org/abs/2207.11892) &nbsp;&nbsp;&nbsp;&nbsp; [SODA]()
+[arXiv](https://arxiv.org/abs/2207.11892) &nbsp;&nbsp;&nbsp;&nbsp; [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch128)
 
 <b>On the Generalized Shuffle-Exchange Problem</b><br>
 Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia<br>
