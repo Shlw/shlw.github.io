@@ -13,6 +13,13 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/lingcod.jpg" />
+    <div class="image-caption">
+      <h1_hover>Lingcod</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/pacific_sanddab.jpg" />
     <div class="image-caption">
       <h1_hover>Pacific Sanddab</h1_hover>

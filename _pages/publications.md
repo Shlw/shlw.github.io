@@ -8,19 +8,20 @@ author_profile: true
 
 ## Preprints
 
-<b>XOR-Lifting and Fourier Growth of Communication Protocols</b><br>
+<b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
 [arXiv]()
-
-<b>On Differentially Private Counting on Trees</b><br>
-Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, <b>Kewen Wu</b><br>
-[arXiv](https://arxiv.org/abs/2212.11967)
 
 <b>Perfect Sampling for (Atomic) Lovász Local Lemma</b><br>
 Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
 [arXiv](http://arxiv.org/abs/2107.03932)
 
 ## Publications
+
+<b>On Differentially Private Counting on Trees</b><br>
+Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, <b>Kewen Wu</b><br>
+<i>International Colloquium on Automata, Languages, and Programming (ICALP), 2023</i>.<br>
+[arXiv](https://arxiv.org/abs/2212.11967) &nbsp;&nbsp;&nbsp;&nbsp; [ICALP]()
 
 <b>Improved Bounds for Sampling Solutions of Random CNF Formulas</b><br>
 Kun He, <b>Kewen Wu</b>, Kuan Yang<br>
@@ -29,8 +30,8 @@ Kun He, <b>Kewen Wu</b>, Kuan Yang<br>
 
 <b>On the Generalized Shuffle-Exchange Problem</b><br>
 Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia<br>
-<i>Pure and Applied Mathematics Quarterly (PAMQ), 2022</i>.<br>
-[PAMQ](https://intlpress.com/site/pub/pages/journals/items/pamq/_home/acceptedpapers/index.php)
+<i>Pure and Applied Mathematics Quarterly (PAMQ), 2022</i>. Special issue in honor of Fan Chung<br>
+[PAMQ](https://www.intlpress.com/site/pub/pages/journals/items/pamq/content/vols/0018/0006/a013/)
 
 <b>Fourier Growth of Parity Decision Trees</b><br>
 Uma Girish, Avishay Tal, <b>Kewen Wu</b><br>
