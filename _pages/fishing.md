@@ -13,6 +13,20 @@ If you go out with me and see me drifted away by current or killed by poisonous 
 <div id="wrapper">
 
   <div class="image-container">
+    <img src="../images/fishing/california_halibut.jpg" />
+    <div class="image-caption">
+      <h1_hover>California Halibut</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/american_shad.jpg" />
+    <div class="image-caption">
+      <h1_hover>American Shad</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/lingcod.jpg" />
     <div class="image-caption">
       <h1_hover>Lingcod</h1_hover>
@@ -268,6 +282,13 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/washington_clam.jpg" />
     <div class="image-caption">
       <h1_hover>Washington Clam</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/limpet.jpg" />
+    <div class="image-caption">
+      <h1_hover>Limpet</h1_hover>
     </div>
   </div>
 
