@@ -118,6 +118,13 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
+    <img src="../images/fishing/blue_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Blue Rockfish</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/gopher_rockfish.jpg" />
     <div class="image-caption">
       <h1_hover>Gopher Rockfish</h1_hover>
