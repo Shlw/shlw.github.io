@@ -62,6 +62,13 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
+    <img src="../images/fishing/crappie.jpg" />
+    <div class="image-caption">
+      <h1_hover>Crappie</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/largemouth_bass.jpg" />
     <div class="image-caption">
       <h1_hover>Largemouth Bass</h1_hover>
