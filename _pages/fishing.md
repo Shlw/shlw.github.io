@@ -62,9 +62,16 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
-    <img src="../images/fishing/crappie.jpg" />
+    <img src="../images/fishing/white_crappie.jpg" />
     <div class="image-caption">
-      <h1_hover>Crappie</h1_hover>
+      <h1_hover>White Crappie</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/black_crappie.jpg" />
+    <div class="image-caption">
+      <h1_hover>Black Crappie</h1_hover>
     </div>
   </div>
 
