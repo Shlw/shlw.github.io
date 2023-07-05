@@ -8,20 +8,21 @@ author_profile: true
 
 ## Preprints
 
-<b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
-Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
-[arXiv]()
-
 <b>Perfect Sampling for (Atomic) Lovász Local Lemma</b><br>
 Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
 [arXiv](http://arxiv.org/abs/2107.03932)
 
 ## Publications
 
+<b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
+Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
+<i>IEEE Symposium on Foundations of Computer Science (FOCS), 2023</i>.<br>
+[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp; [FOCS]()
+
 <b>On Differentially Private Counting on Trees</b><br>
 Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, <b>Kewen Wu</b><br>
 <i>International Colloquium on Automata, Languages, and Programming (ICALP), 2023</i>.<br>
-[arXiv](https://arxiv.org/abs/2212.11967) &nbsp;&nbsp;&nbsp;&nbsp; [ICALP]()
+[arXiv](https://arxiv.org/abs/2212.11967) &nbsp;&nbsp;&nbsp;&nbsp; [ICALP](https://drops.dagstuhl.de/opus/volltexte/2023/18118/)
 
 <b>Improved Bounds for Sampling Solutions of Random CNF Formulas</b><br>
 Kun He, <b>Kewen Wu</b>, Kuan Yang<br>
