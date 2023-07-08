@@ -5,6 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+[Fourier Growth of Communication Protocols for XOR Functions](../slides/XORfiber.pptx)<br>
+with Uma Girish, Makrand Sinha, Avishay Tal.<br>
+Institute of Computing Technology, Chinese Academy of Sciences, Jul 2023
+
+[On Differentially Private Counting on Trees](../slides/DPtree.pdf)<br>
+with Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi.<br>
+Center on Frontiers of Computing Studies, Peking University, Jul 2023
+
 [Improved Bounds for Sampling Solutions of Random CNF Formulas](../slides/RandomSAT.pptx)<br>
 with Kun He, Kuan Yang.<br>
 ACM-SIAM Symposium on Discrete Algorithms (SODA), Jan 2023
