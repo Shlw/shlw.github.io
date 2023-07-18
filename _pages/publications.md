@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Manuscripts"
 permalink: /publications/
 author_profile: true
 ---
-*All in alphabetic order and sorted by first publication date.*
 
-## Publications and Preprints
+*All in alphabetic order and sorted by first publication date.*
 
 <b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
