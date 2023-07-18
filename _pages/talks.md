@@ -5,11 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-[Fourier Growth of Communication Protocols for XOR Functions](../slides/XORfiber.pptx)<br>
+[Fourier Growth of Communication Protocols for XOR Functions](../slides/XOR-fiber.pptx)<br>
 with Uma Girish, Makrand Sinha, Avishay Tal.<br>
 Institute of Computing Technology, Chinese Academy of Sciences, Jul 2023
 
-[On Differentially Private Counting on Trees](../slides/DPtree.pdf)<br>
+[On Differentially Private Counting on Trees](../slides/DP-tree.pptx)<br>
 with Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi.<br>
 Center on Frontiers of Computing Studies, Peking University, Jul 2023
 

@@ -6,13 +6,7 @@ author_profile: true
 ---
 *All in alphabetic order and sorted by first publication date.*
 
-## Preprints
-
-<b>Perfect Sampling for (Atomic) Lovász Local Lemma</b><br>
-Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
-[arXiv](http://arxiv.org/abs/2107.03932)
-
-## Publications
+## Publications and Preprints
 
 <b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
@@ -33,6 +27,10 @@ Kun He, <b>Kewen Wu</b>, Kuan Yang<br>
 Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia<br>
 <i>Pure and Applied Mathematics Quarterly (PAMQ), 2022</i>. Special issue in honor of Fan Chung<br>
 [PAMQ](https://www.intlpress.com/site/pub/pages/journals/items/pamq/content/vols/0018/0006/a013/)
+
+<b>Perfect Sampling for (Atomic) Lovász Local Lemma</b><br>
+Kun He, Xiaoming Sun, <b>Kewen Wu</b><br>
+[arXiv](http://arxiv.org/abs/2107.03932)
 
 <b>Fourier Growth of Parity Decision Trees</b><br>
 Uma Girish, Avishay Tal, <b>Kewen Wu</b><br>
@@ -59,12 +57,17 @@ Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang<br>
 Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang<br>
 <i>ACM Symposium on Theory of Computing (STOC), 2020</i>. Best paper award<br>
 <i>Annals of Mathematics, Vol. 194, No. 3, 2021</i>.<br>
+Frontiers of Science Award <i> at the International Congress of Basic Science, 2023</i>.<br>
 [arXiv](https://arxiv.org/abs/1908.08483) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)  &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384234) &nbsp;&nbsp;&nbsp;&nbsp; [Annals](https://annals.math.princeton.edu/2021/194-3/p05)
 
 <b>Optimal Space-Depth Trade-Off of CNOT Circuits in Quantum Logic Synthesis</b><br>
 Jiaqing Jiang, Xiaoming Sun, Shang-Hua Teng, Bujiao Wu, <b>Kewen Wu</b>, Jialin Zhang<br>
 <i>ACM-SIAM Symposium on Discrete Algorithms (SODA), 2020</i>.<br>
 [arXiv](https://arxiv.org/abs/1907.05087) &nbsp;&nbsp;&nbsp;&nbsp; [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.13)
+
+<b>A Note on Lower Digits Extraction Polynomial for Bootstrapping</b><br>
+Mingjia Huo, <b>Kewen Wu</b>, Qi Ye<br>
+[arXiv](https://arxiv.org/abs/1906.02867) &nbsp;&nbsp;&nbsp;&nbsp; [ePrint](https://eprint.iacr.org/2019/677)
 
 <b>Structured decomposition for reversible Boolean functions</b><br>
 Jiaqing Jiang, Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia<br>
@@ -76,9 +79,3 @@ Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia<br>
 <i>International Computing and Combinatorics Conference (COCOON), 2019</i>.<br>
 <i>Journal of Combinatorial Optimization (JOCO), 2021</i>.<br>
 [arXiv](https://arxiv.org/abs/1810.03811) &nbsp;&nbsp;&nbsp;&nbsp; [COCOON](https://link.springer.com/chapter/10.1007%2F978-3-030-26176-4_43) &nbsp;&nbsp;&nbsp;&nbsp; [JOCO](https://link.springer.com/article/10.1007/s10878-020-00689-8)
-
-## Not Intended to Publish
-
-<b>A Note on Lower Digits Extraction Polynomial for Bootstrapping</b><br>
-Mingjia Huo, <b>Kewen Wu</b>, Qi Ye<br>
-[arXiv](https://arxiv.org/abs/1906.02867) &nbsp;&nbsp;&nbsp;&nbsp; [ePrint](https://eprint.iacr.org/2019/677)
