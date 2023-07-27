@@ -10,7 +10,7 @@ author_profile: true
 <b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
 <i>IEEE Symposium on Foundations of Computer Science (FOCS), 2023</i>.<br>
-[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp; [FOCS]()
+[arXiv](https://arxiv.org/abs/2307.13926) &nbsp;&nbsp;&nbsp;&nbsp; [FOCS]()
 
 <b>On Differentially Private Counting on Trees</b><br>
 Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, <b>Kewen Wu</b><br>
