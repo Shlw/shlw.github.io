@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Misc"
-permalink: /misc/
+title: "Contact"
+permalink: /contact/
 author_profile: true
 ---
 
