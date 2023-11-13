@@ -7,6 +7,18 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+<b>Parameterized Inapproximability Hypothesis under ETH.</b><br>
+Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
+<i>Submitted</i>.<br>
+
+<b>Locality Bounds for Sampling Hamming Slices.</b><br>
+Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
+<i>Submitted</i>.<br>
+
+<b>The Power of Adaptivity in Quantum Query Algorithms</b><br>
+Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
+<i>Submitted</i>.<br>
+
 <b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
 <i>IEEE Symposium on Foundations of Computer Science (FOCS), 2023</i>.<br>

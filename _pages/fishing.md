@@ -286,9 +286,23 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
+    <img src="../images/fishing/speckled_scallop.jpg" />
+    <div class="image-caption">
+      <h1_hover>Speckled Scallop</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/geoduck_clam.jpg" />
     <div class="image-caption">
       <h1_hover>Geoduck Clam</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/razor_clam.jpg" />
+    <div class="image-caption">
+      <h1_hover>Razor Clam</h1_hover>
     </div>
   </div>
 
@@ -419,9 +433,23 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
+    <img src="../images/fishing/yellow_rock_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>Yellow Rock Crab</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/pacific_rock_crab.jpg" />
     <div class="image-caption">
       <h1_hover>Pacific Rock Crab</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/swimming_crab.jpg" />
+    <div class="image-caption">
+      <h1_hover>Swimming Crab</h1_hover>
     </div>
   </div>
 
@@ -436,6 +464,13 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/european_green_crab.jpg" />
     <div class="image-caption">
       <h1_hover>European Green Crab</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/spiny_lobster.jpg" />
+    <div class="image-caption">
+      <h1_hover>Spiny Lobster</h1_hover>
     </div>
   </div>
 
