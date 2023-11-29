@@ -10,6 +10,7 @@ author_profile: true
 <b>Parameterized Inapproximability Hypothesis under ETH.</b><br>
 Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
 <i>Submitted</i>.<br>
+[arXiv](https://arxiv.org/abs/2311.16587) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2023/188/)
 
 <b>Locality Bounds for Sampling Hamming Slices.</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
@@ -17,11 +18,12 @@ Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
 
 <b>The Power of Adaptivity in Quantum Query Algorithms</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
-<i>Submitted</i>.<br>
+<i>Quantum Information Processing (QIP), 2024</i>.<br>
+[arXiv](https://arxiv.org/abs/2311.16057)
 
 <b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
-<i>IEEE Symposium on Foundations of Computer Science (FOCS), 2023</i>.<br>
+<i>Symposium on Foundations of Computer Science (FOCS), 2023</i>.<br>
 [arXiv](https://arxiv.org/abs/2307.13926) &nbsp;&nbsp;&nbsp;&nbsp; [FOCS]()
 
 <b>On Differentially Private Counting on Trees</b><br>
@@ -31,7 +33,7 @@ Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, <b>Kewen Wu</b><br>
 
 <b>Improved Bounds for Sampling Solutions of Random CNF Formulas</b><br>
 Kun He, <b>Kewen Wu</b>, Kuan Yang<br>
-<i>ACM-SIAM Symposium on Discrete Algorithms (SODA), 2023</i>.<br>
+<i>Symposium on Discrete Algorithms (SODA), 2023</i>.<br>
 [arXiv](https://arxiv.org/abs/2207.11892) &nbsp;&nbsp;&nbsp;&nbsp; [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch128)
 
 <b>On the Generalized Shuffle-Exchange Problem</b><br>
@@ -60,20 +62,20 @@ Xiaoming Sun, Yuan Sun, Jiaheng Wang, <b>Kewen Wu</b>, Zhiyu Xia, Yufan Zheng<br
 
 <b>Decision list compression by mild random restrictions</b><br>
 Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang<br>
-<i>ACM Symposium on Theory of Computing (STOC), 2020</i>.<br>
+<i>Symposium on Theory of Computing (STOC), 2020</i>.<br>
 <i>Journal of the ACM (JACM), Vol. 68, No. 6, 2021</i>.<br>
 [arXiv](https://arxiv.org/abs/1909.10658) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/137/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384241) &nbsp;&nbsp;&nbsp;&nbsp; [JACM](https://dl.acm.org/doi/10.1145/3485007)
 
 <b>Improved bounds for the sunflower lemma</b><br>
 Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang<br>
-<i>ACM Symposium on Theory of Computing (STOC), 2020</i>. Best paper award<br>
+<i>Symposium on Theory of Computing (STOC), 2020</i>. Best paper award<br>
 <i>Annals of Mathematics, Vol. 194, No. 3, 2021</i>.<br>
 Frontiers of Science Award <i> at the International Congress of Basic Science, 2023</i>.<br>
 [arXiv](https://arxiv.org/abs/1908.08483) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)  &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384234) &nbsp;&nbsp;&nbsp;&nbsp; [Annals](https://annals.math.princeton.edu/2021/194-3/p05)
 
 <b>Optimal Space-Depth Trade-Off of CNOT Circuits in Quantum Logic Synthesis</b><br>
 Jiaqing Jiang, Xiaoming Sun, Shang-Hua Teng, Bujiao Wu, <b>Kewen Wu</b>, Jialin Zhang<br>
-<i>ACM-SIAM Symposium on Discrete Algorithms (SODA), 2020</i>.<br>
+<i>Symposium on Discrete Algorithms (SODA), 2020</i>.<br>
 [arXiv](https://arxiv.org/abs/1907.05087) &nbsp;&nbsp;&nbsp;&nbsp; [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.13)
 
 <b>A Note on Lower Digits Extraction Polynomial for Bootstrapping</b><br>
@@ -82,7 +84,7 @@ Mingjia Huo, <b>Kewen Wu</b>, Qi Ye<br>
 
 <b>Structured decomposition for reversible Boolean functions</b><br>
 Jiaqing Jiang, Xiaoming Sun, Yuan Sun, <b>Kewen Wu</b>, Zhiyu Xia<br>
-<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019</i>.<br>
+<i>Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2019</i>.<br>
 [arXiv](https://arxiv.org/abs/1810.04279) &nbsp;&nbsp;&nbsp;&nbsp; [TCAD](https://ieeexplore.ieee.org/document/8764360)
 
 <b>On the Relationship between Energy Complexity and other Boolean Function Measures</b><br>
