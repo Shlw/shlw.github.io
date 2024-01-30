@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+[The Power of Adaptivity in Quantum Query Algorithms](../slides/Adaptivity.pptx)<br>
+with Uma Girish, Makrand Sinha, Avishay Tal.<br>
+Quantum Information Processing (QIP), Jan 2024<br>
+The IQC-QuICS Math and Computer Science Seminar, Jan 2024
+
 [Fourier Growth of Communication Protocols for XOR Functions](../slides/XOR-fiber.pptx)<br>
 with Uma Girish, Makrand Sinha, Avishay Tal.<br>
 Institute of Computing Technology, Chinese Academy of Sciences, Jul 2023

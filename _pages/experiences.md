@@ -30,6 +30,7 @@ author_profile: true
 
 ## Teaching
 
+* TA of [*Discrete Mathematics and Probability Theory*](https://www.eecs70.org/)  <span style="float:right;">University of California, Berkeley, Spring 2024</span>
 * TA of [*Pseudorandomness*](https://www.avishaytal.org/pseudorandomness)  <span style="float:right;">University of California, Berkeley, Fall 2021</span>
 * TA of *Fundamentals of Cryptography*  <span style="float:right;">Peking University, Fall 2019</span>
 * TA of *Randomized Algorithms*  <span style="float:right;">Peking University, Spring 2019</span>
