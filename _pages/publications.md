@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Publications and Manuscripts"
@@ -7,24 +8,31 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
-<b>Parameterized Inapproximability Hypothesis under ETH.</b><br>
-Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
+<b>Tight Characterizations for Preprocessing against Cryptographic Salting</b><br>
+Fangqi Dong, Qipeng Liu, <b>Kewen Wu</b><br>
 <i>Submitted</i>.<br>
-[arXiv](https://arxiv.org/abs/2311.16587) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2023/188/)
+[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp; [ePrint]()
 
-<b>Locality Bounds for Sampling Hamming Slices.</b><br>
+<b>Parameterized Inapproximability Hypothesis under ETH</b><br>
+Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
+<i>Symposium on Theory of Computing (STOC), 2024</i>.<br>
+[arXiv](https://arxiv.org/abs/2311.16587) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2023/188/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
+
+<b>Locality Bounds for Sampling Hamming Slices</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
-<i>Submitted</i>.<br>
+<i>Symposium on Theory of Computing (STOC), 2024</i>.<br>
+[arXiv](https://arxiv.org/abs/2402.14278) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2024/031/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
 
 <b>The Power of Adaptivity in Quantum Query Algorithms</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
 <i>Quantum Information Processing (QIP), 2024</i>.<br>
-[arXiv](https://arxiv.org/abs/2311.16057)
+<i>Symposium on Theory of Computing (STOC), 2024</i>.<br>
+[arXiv](https://arxiv.org/abs/2311.16057) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
 
 <b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
 <i>Symposium on Foundations of Computer Science (FOCS), 2023</i>.<br>
-[arXiv](https://arxiv.org/abs/2307.13926) &nbsp;&nbsp;&nbsp;&nbsp; [FOCS]()
+[arXiv](https://arxiv.org/abs/2307.13926) &nbsp;&nbsp;&nbsp;&nbsp; [FOCS](https://ieeexplore.ieee.org/document/10353094)
 
 <b>On Differentially Private Counting on Trees</b><br>
 Badih Ghazi, Pritish Kamath, Ravi Kumar, Pasin Manurangsi, <b>Kewen Wu</b><br>
