@@ -7,14 +7,20 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+
+<b>Almost Optimal Time Lower Bound for Approximating Parameterized Clique, CSP, and More, under ETH</b><br>
+Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
+<i>Submitted</i>.<br>
+[arXiv](https://arxiv.org/abs/2404.08870) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2024/075/)
+
 <b>Tight Characterizations for Preprocessing against Cryptographic Salting</b><br>
 Fangqi Dong, Qipeng Liu, <b>Kewen Wu</b><br>
-<i>Submitted</i>.<br>
-[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp; [ePrint]()
+<i>Annual International Cryptology Conference (CRYPTO), 2024</i>.<br>
+[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp; [ePrint]() &nbsp;&nbsp;&nbsp;&nbsp; [CRYPTO]()
 
 <b>Parameterized Inapproximability Hypothesis under ETH</b><br>
 Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
-<i>Symposium on Theory of Computing (STOC), 2024</i>.<br>
+<i>Symposium on Theory of Computing (STOC), 2024</i>. Best paper award<br>
 [arXiv](https://arxiv.org/abs/2311.16587) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2023/188/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
 
 <b>Locality Bounds for Sampling Hamming Slices</b><br>
