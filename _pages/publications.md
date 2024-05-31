@@ -16,7 +16,7 @@ Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
 <b>Tight Characterizations for Preprocessing against Cryptographic Salting</b><br>
 Fangqi Dong, Qipeng Liu, <b>Kewen Wu</b><br>
 <i>Annual International Cryptology Conference (CRYPTO), 2024</i>.<br>
-[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp; [ePrint]() &nbsp;&nbsp;&nbsp;&nbsp; [CRYPTO]()
+[arXiv](https://arxiv.org/abs/2405.20281) &nbsp;&nbsp;&nbsp;&nbsp; [ePrint](https://eprint.iacr.org/2024/831) &nbsp;&nbsp;&nbsp;&nbsp; [CRYPTO]()
 
 <b>Parameterized Inapproximability Hypothesis under ETH</b><br>
 Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
