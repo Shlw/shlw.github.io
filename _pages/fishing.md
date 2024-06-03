@@ -495,6 +495,3 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     </div>
   </div>
 </div>
-
-*Feel free to check out my video channel (mostly Chinese) [here](https://space.bilibili.com/4833115).*
-
