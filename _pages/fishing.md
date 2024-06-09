@@ -41,6 +41,34 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
+    <img src="../images/fishing/mexican_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Mexican Rockfish</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/chilipepper_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Chilipepper Rockfish</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/greenspotted_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Greenspotted Rockfish</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/greenstriped_rockfish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Greenstriped Rockfish</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/starry_rockfish.jpg" />
     <div class="image-caption">
       <h1_hover>Starry Rockfish</h1_hover>
