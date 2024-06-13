@@ -18,21 +18,21 @@ Fangqi Dong, Qipeng Liu, <b>Kewen Wu</b><br>
 <i>Annual International Cryptology Conference (CRYPTO), 2024</i>.<br>
 [arXiv](https://arxiv.org/abs/2405.20281) &nbsp;&nbsp;&nbsp;&nbsp; [ePrint](https://eprint.iacr.org/2024/831) &nbsp;&nbsp;&nbsp;&nbsp; [CRYPTO]()
 
-<b>Parameterized Inapproximability Hypothesis under ETH</b><br>
+<b>Parameterized Inapproximability Hypothesis under Exponential Time Hypothesis</b><br>
 Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
 <i>Symposium on Theory of Computing (STOC), 2024</i>. Best paper award<br>
-[arXiv](https://arxiv.org/abs/2311.16587) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2023/188/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
+[arXiv](https://arxiv.org/abs/2311.16587) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2023/188/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3618260.3649771)
 
 <b>Locality Bounds for Sampling Hamming Slices</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
 <i>Symposium on Theory of Computing (STOC), 2024</i>.<br>
-[arXiv](https://arxiv.org/abs/2402.14278) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2024/031/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
+[arXiv](https://arxiv.org/abs/2402.14278) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2024/031/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3618260.3649670)
 
 <b>The Power of Adaptivity in Quantum Query Algorithms</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
 <i>Quantum Information Processing (QIP), 2024</i>.<br>
 <i>Symposium on Theory of Computing (STOC), 2024</i>.<br>
-[arXiv](https://arxiv.org/abs/2311.16057) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
+[arXiv](https://arxiv.org/abs/2311.16057) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3618260.3649621)
 
 <b>Fourier Growth of Communication Protocols for XOR Functions</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
