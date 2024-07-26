@@ -90,6 +90,27 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
+    <img src="../images/fishing/california_golden_trout.jpg" />
+    <div class="image-caption">
+      <h1_hover>California Golden Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/lahontan_cutthroat_trout.jpg" />
+    <div class="image-caption">
+      <h1_hover>Lahontan Cutthroat Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/brook_trout.jpg" />
+    <div class="image-caption">
+      <h1_hover>Brook Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/brown_trout.jpg" />
     <div class="image-caption">
       <h1_hover>Brown Trout</h1_hover>
