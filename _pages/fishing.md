@@ -90,6 +90,34 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
+    <img src="../images/fishing/coastal_cutthroat_trout.jpg" />
+    <div class="image-caption">
+      <h1_hover>Coastal Cutthroat Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/goose_lake_redband_trout.jpg" />
+    <div class="image-caption">
+      <h1_hover>Goose Lake Redband Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/marble_trout.jpg" />
+    <div class="image-caption">
+      <h1_hover>Marble Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/mccloud_redband_trout.jpg" />
+    <div class="image-caption">
+      <h1_hover>McCloud Redband Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/california_golden_trout.jpg" />
     <div class="image-caption">
       <h1_hover>California Golden Trout</h1_hover>
@@ -135,6 +163,13 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/black_crappie.jpg" />
     <div class="image-caption">
       <h1_hover>Black Crappie</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/eagle_lake_tui_chub.jpg" />
+    <div class="image-caption">
+      <h1_hover>Eagle Lake Tui Chub</h1_hover>
     </div>
   </div>
 
