@@ -8,7 +8,8 @@ author_profile: true
 [The Power of Adaptivity in Quantum Query Algorithms](../slides/Adaptivity.pptx)<br>
 with Uma Girish, Makrand Sinha, Avishay Tal.<br>
 Quantum Information Processing (QIP), Jan 2024<br>
-The IQC-QuICS Math and Computer Science Seminar, Jan 2024
+The IQC-QuICS Math and Computer Science Seminar, Jan 2024<br>
+Symposium on Theory of Computing (STOC), Jun 2024
 
 [Fourier Growth of Communication Protocols for XOR Functions](../slides/XOR-fiber.pptx)<br>
 with Uma Girish, Makrand Sinha, Avishay Tal.<br>
@@ -20,7 +21,7 @@ Center on Frontiers of Computing Studies, Peking University, Jul 2023
 
 [Improved Bounds for Sampling Solutions of Random CNF Formulas](../slides/RandomSAT.pptx)<br>
 with Kun He, Kuan Yang.<br>
-ACM-SIAM Symposium on Discrete Algorithms (SODA), Jan 2023
+Symposium on Discrete Algorithms (SODA), Jan 2023
 
 [Perfect Sampling for (Atomic) Lovász Local Lemma](../slides/PerfectSampling.pptx)<br>
 with Kun He, Xiaoming Sun.<br>
@@ -47,7 +48,7 @@ International Joint Conference on Theoretical Computer Science (IJTCS), Aug 2020
 [Decision list compression by mild random restrictions](../slides/DLcompression.pdf)<br>
 with Shachar Lovett, Jiapeng Zhang.<br>
 Institute of Computing Technology, Chinese Academy of Sciences, Oct 2019<br>
-ACM Symposium on Theory of Computing (STOC), Jun 2020
+Symposium on Theory of Computing (STOC), Jun 2020
 
 [Randomness vs structure --- DNF compression and sunflower lemma](../slides/DNF+sunflower.pdf)<br>
 with Ryan Alweiss, Shachar Lovett, Jiapeng Zhang.<br>
