@@ -7,6 +7,10 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+<b>Quantum State Preparation with Optimal T-Count</b><br>
+David Gosset, Robin Kothari, <b>Kewen Wu</b><br>
+<i>Submitted</i>.<br>
+[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp; 
 
 <b>Almost Optimal Time Lower Bound for Approximating Parameterized Clique, CSP, and More, under ETH</b><br>
 Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>

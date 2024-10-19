@@ -5,6 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+[Quantum State Preparation with Optimal T-Count](../slides/stateprep-full.pptx)
+with David Gosset, Robin Kothari.<br>
+Theory seminar at University of Washington, Oct 2024<br>
+Workshop ''Analysis in TCS: testing, learning, and complexity'' at Hausdorff Research Institute for Mathematics, Nov 2024<br>
+Workshop ''Quantum Innovators'' at Institute for Quantum Computing (IQC), University of Waterloo, Nov 2024<br>
+Theory seminar at University of California, San Diego, Nov 2024
+
 [The Power of Adaptivity in Quantum Query Algorithms](../slides/Adaptivity.pptx)<br>
 with Uma Girish, Makrand Sinha, Avishay Tal.<br>
 Quantum Information Processing (QIP), Jan 2024<br>
