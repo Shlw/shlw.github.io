@@ -125,9 +125,23 @@ If you go out with me and see me drifted away by current or killed by poisonous 
   </div>
 
   <div class="image-container">
+    <img src="../images/fishing/kern_golden.jpg" />
+    <div class="image-caption">
+      <h1_hover>Little Kern Golden Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
     <img src="../images/fishing/lahontan_cutthroat_trout.jpg" />
     <div class="image-caption">
       <h1_hover>Lahontan Cutthroat Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/kern_rainbow.jpg" />
+    <div class="image-caption">
+      <h1_hover>Kern River Rainbow Trout</h1_hover>
     </div>
   </div>
 
