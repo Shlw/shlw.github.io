@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I'm a fourth-year graduate student in [the theory group of UC Berkeley](http://theory.cs.berkeley.edu/). 
+* I'm a final-year graduate student in [the theory group of UC Berkeley](http://theory.cs.berkeley.edu/). 
 * I'm very lucky to have [Avishay Tal](http://www.avishaytal.org/) be my advisor.
 * My research interests lie in the general area of theoretical computer science, with a recent focus on provable quantum advantages, Boolean function analysis, and quantum cryptography. 
 
