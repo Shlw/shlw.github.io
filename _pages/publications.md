@@ -7,6 +7,12 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+<b>Locally Sampleable Uniform Symmetric Distributions</b><br>
+Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
+<i>Submitted</i>.<br>
+[arXiv](https://arxiv.org/abs/2411.08183) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2024/180) &nbsp;&nbsp;&nbsp;&nbsp; 
+
+
 <b>Quantum State Preparation with Optimal T-Count</b><br>
 David Gosset, Robin Kothari, <b>Kewen Wu</b><br>
 <i>Submitted</i>.<br>
