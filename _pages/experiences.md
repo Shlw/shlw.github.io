@@ -15,13 +15,13 @@ author_profile: true
 
 * <b>Peking University</b>
     * School of Electronics Engineering and Computer Science <span style="float:right;"> Sept 2016 - Jul 2020 </span>
-        * [B.S. in Computer Science and Technology](../slides/Major.pdf) (CS pilot class)
+        * [B.S. in Computer Science and Technology](../images/certificate/Major.pdf) (CS pilot class)
     * School of Mathematical Science <span style="float:right;"> Sept 2017 - Jul 2020 </span>
-        * [B.S. in Mathematics and Applied Mathematics](../slides/DoubleMajor.pdf)
+        * [B.S. in Mathematics and Applied Mathematics](../images/certificate/DoubleMajor.pdf)
 
 ## Work 
 
-* <b>Google Quantum AI, Los Angles</b><span style="float:right;"> Jun 2024 - Apr 2025 </span>
+* <b>Google Quantum AI, Los Angeles</b><span style="float:right;"> Jun 2024 - Apr 2025 </span>
     * Student Researcher on quantum computing hosted by [Robin Kothari](https://www.robinkothari.com/)
 
 * <b>NTT Research, Sunnyvale</b><span style="float:right;"> Aug 2022 - Dec 2022 </span>

@@ -9,7 +9,7 @@ I'm interested in all kinds of fishing (saltwater/freshwater, spinning/fly/baitc
 My current focus is on trout collection, especially native wild trouts.
 I participate in [California Heritage Trout Challenge](https://wildlife.ca.gov/Fishing/Inland/HTC) and [Western Native Trout Challenge](https://westernnativetroutchallenge.org/). See my certificate and photos of catch below.
 
-<img src="../images/fishing/CHTC_1.jpg" alt="6/12 Certificate of California Heritage Trout Challenge" width="200" height="300">
+<img src="../images/certificate/CHTC_1.jpg" alt="6/12 Certificate of California Heritage Trout Challenge" width="200" height="300">
 
 <link rel="stylesheet" href="../assets/css/stylesheet.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
