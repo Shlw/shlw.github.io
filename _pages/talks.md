@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-[Quantum State Preparation with Optimal T-Count](../slides/stateprep-full.pptx)
+[Quantum State Preparation with Optimal T-Count](../slides/stateprep-full.pptx)<br>
 with David Gosset, Robin Kothari.<br>
 Theory seminar at University of Washington, Oct 2024<br>
 Workshop ''Analysis in TCS: testing, learning, and complexity'' at Hausdorff Research Institute for Mathematics, Nov 2024<br>

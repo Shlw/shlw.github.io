@@ -21,12 +21,15 @@ author_profile: true
 
 ## Work 
 
+* <b>Google Quantum AI, Los Angles</b><span style="float:right;"> Jun 2024 - Apr 2025 </span>
+    * Student Researcher on quantum computing hosted by [Robin Kothari](https://www.robinkothari.com/)
+
 * <b>NTT Research, Sunnyvale</b><span style="float:right;"> Aug 2022 - Dec 2022 </span>
-    * Part-time Intern on (theoretical) cryptography hosted by [Justin Holmgren](http://justinholmgren.com/)
+    * Intern on (theoretical) cryptography hosted by [Justin Holmgren](http://justinholmgren.com/)
 
 
 * <b>Google Research, Mountain View</b><span style="float:right;"> Jun 2022 - Aug 2022 </span>
-    * Full-time Student Researcher on differential privacy hosted by [Pritish Kamath](https://pritishkamath.github.io/)
+    * Student Researcher on differential privacy hosted by [Pritish Kamath](https://pritishkamath.github.io/)
 
 ## Teaching
 

@@ -5,7 +5,11 @@ permalink: /fishing/
 author_profile: true
 ---
 
-If you go out with me and see me drifted away by current or killed by poisonous fish, or more likely, eaten by *Kraken* or recruited by *Flying Dutchman*, please let my other friends know :)
+I'm interested in all kinds of fishing (saltwater/freshwater, spinning/fly/baitcasting, shore/boat/wading).
+My current focus is on trout collection, especially native wild trouts.
+I participate in [California Heritage Trout Challenge](https://wildlife.ca.gov/Fishing/Inland/HTC) and [Western Native Trout Challenge](https://westernnativetroutchallenge.org/). See my certificate and photos of catch below.
+
+<img src="../images/fishing/CHTC_1.jpg" alt="6/12 Certificate of California Heritage Trout Challenge" width="200" height="300">
 
 <link rel="stylesheet" href="../assets/css/stylesheet.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -107,6 +111,13 @@ If you go out with me and see me drifted away by current or killed by poisonous 
     <img src="../images/fishing/marble_trout.jpg" />
     <div class="image-caption">
       <h1_hover>Marble Trout</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/lake_trout.jpg" />
+    <div class="image-caption">
+      <h1_hover>Lake Trout</h1_hover>
     </div>
   </div>
 
