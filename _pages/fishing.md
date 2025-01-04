@@ -15,9 +15,6 @@ I participate in [California Heritage Trout Challenge](https://wildlife.ca.gov/F
 
 <div id="wrapper">
   <img src="../images/certificate/CHTC_1.jpg" /> 
-  <div class="image-caption">
-  <h1_hover> 6/12 Certificate of California Heritage Trout Challenge</h1_hover>
-  </div>
 </div>
 
 <div id="wrapper">
