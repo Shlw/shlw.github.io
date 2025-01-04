@@ -10,7 +10,7 @@ author_profile: true
 * <b>University of California, Berkeley</b>
     * Department of Electrical Engineering and Computer Sciences <span style="float:right;"> Aug 2020 - Now </span>
         * Ph.D. in Computer Science (in progress)
-        * <i>Advisor</i>: [Avishay Tal](https://www.avishaytal.org/)
+        * Advised by [Avishay Tal](https://www.avishaytal.org/)
 
 
 * <b>Peking University</b>
