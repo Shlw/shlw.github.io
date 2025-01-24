@@ -5,12 +5,21 @@ permalink: /talks/
 author_profile: true
 ---
 
+[Locally Sampleable Uniform Symmetric Distributions](../slides/locallysample.pdf)<br>
+with Daniel M. Kane, Anthony Ostuni.<br>
+Theory seminar at University of California, San Diego, Jan 2025<br>
+Combinatorics and Probability seminar at University of California, Irvine, Jan 2025<br>
+Theory lunch at University of Southern California, Jan 2025
+
 [Quantum State Preparation with Optimal T-Count](../slides/stateprep-full.pptx)<br>
 with David Gosset, Robin Kothari.<br>
 Theory seminar at University of Washington, Oct 2024<br>
 Workshop ''Analysis in TCS: testing, learning, and complexity'' at Hausdorff Research Institute for Mathematics, Nov 2024<br>
 Workshop ''Quantum Innovators'' at Institute for Quantum Computing (IQC), University of Waterloo, Nov 2024<br>
-Theory seminar at University of California, San Diego, Nov 2024
+Theory seminar at University of California, San Diego, Nov 2024<br>
+Quantum Computing Seminar Series at Harvard University, Feb 2025<br>
+Quantum Information Processing (QIP), Feb 2025
+
 
 [The Power of Adaptivity in Quantum Query Algorithms](../slides/Adaptivity.pptx)<br>
 with Uma Girish, Makrand Sinha, Avishay Tal.<br>
