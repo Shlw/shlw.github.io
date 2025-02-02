@@ -9,13 +9,13 @@ author_profile: true
 
 <b>Locally Sampleable Uniform Symmetric Distributions</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
-<i>Submitted</i>.<br>
-[arXiv](https://arxiv.org/abs/2411.08183) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2024/180) &nbsp;&nbsp;&nbsp;&nbsp; 
+<i>Symposium on Theory of Computing (STOC), 2025</i>.<br>
+[arXiv](https://arxiv.org/abs/2411.08183) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2024/180) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
 
 <b>Almost Optimal Time Lower Bound for Approximating Parameterized Clique, CSP, and More, under ETH</b><br>
 Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
-<i>Submitted</i>.<br>
-[arXiv](https://arxiv.org/abs/2404.08870) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2024/075/)
+<i>Symposium on Theory of Computing (STOC), 2025</i>.<br>
+[arXiv](https://arxiv.org/abs/2404.08870) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2024/075/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
 
 <b>Quantum State Preparation with Optimal T-Count</b><br>
 David Gosset, Robin Kothari, <b>Kewen Wu</b><br>
