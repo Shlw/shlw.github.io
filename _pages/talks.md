@@ -9,7 +9,8 @@ author_profile: true
 with Daniel M. Kane, Anthony Ostuni.<br>
 Theory seminar at University of California, San Diego, Jan 2025<br>
 Combinatorics and Probability seminar at University of California, Irvine, Jan 2025<br>
-Theory lunch at University of Southern California, Jan 2025
+Theory lunch at University of Southern California, Jan 2025<br>
+Algorithm & Complexity seminar at MIT, Feb 2025
 
 [Quantum State Preparation with Optimal T-Count](../slides/stateprep-full.pptx)<br>
 with David Gosset, Robin Kothari.<br>
