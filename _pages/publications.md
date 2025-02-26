@@ -19,7 +19,7 @@ Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
 
 <b>Quantum State Preparation with Optimal T-Count</b><br>
 David Gosset, Robin Kothari, <b>Kewen Wu</b><br>
-<i>Quantum Information Processing (QIP), 2025</i>.<br>
+<i>Quantum Information Processing (QIP), 2025</i>. Parallel talk<br>
 [arXiv](https://arxiv.org/abs/2411.04790) &nbsp;&nbsp;&nbsp;&nbsp; 
 
 <b>Tight Characterizations for Preprocessing against Cryptographic Salting</b><br>
@@ -39,7 +39,7 @@ Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
 
 <b>The Power of Adaptivity in Quantum Query Algorithms</b><br>
 Uma Girish, Makrand Sinha, Avishay Tal, <b>Kewen Wu</b><br>
-<i>Quantum Information Processing (QIP), 2024</i>.<br>
+<i>Quantum Information Processing (QIP), 2024</i>. Parallel talk<br>
 <i>Symposium on Theory of Computing (STOC), 2024</i>.<br>
 [arXiv](https://arxiv.org/abs/2311.16057) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3618260.3649621)
 
