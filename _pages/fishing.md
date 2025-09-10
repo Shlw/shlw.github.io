@@ -5,7 +5,18 @@ permalink: /fishing/
 author_profile: true
 ---
 
-I'm interested in all kinds of fishing (saltwater/freshwater, spinning/fly/baitcasting, shore/boat/wading).
+I do all kinds of fishing: saltwater/freshwater, spinning/fly/baitcasting, shore/boat/wading. I love small and pretty fish, as well as big and crazy fish.
+
+I used to put all my fish photos. Since it is getting slower to load, I now only put photos of certificate. A list of caught fish is also below, linked to photos of catch.
+
+
+
+
+
+
+
+
+
 My current focus is on trout collection, especially native wild trouts.
 I participate in [California Heritage Trout Challenge](https://wildlife.ca.gov/Fishing/Inland/HTC) and [Western Native Trout Challenge](https://westernnativetroutchallenge.org/). See my certificate and photos of catch below.
 
@@ -16,6 +27,10 @@ I participate in [California Heritage Trout Challenge](https://wildlife.ca.gov/F
 <div id="wrapper">
   <img src="../images/certificate/CHTC_1.jpg" /> 
 </div>
+
+
+
+
 
 <div id="wrapper">
   <div class="image-container">
@@ -190,6 +205,13 @@ I participate in [California Heritage Trout Challenge](https://wildlife.ca.gov/F
     <img src="../images/fishing/black_crappie.jpg" />
     <div class="image-caption">
       <h1_hover>Black Crappie</h1_hover>
+    </div>
+  </div>
+
+  <div class="image-container">
+    <img src="../images/fishing/mountain_whitefish.jpg" />
+    <div class="image-caption">
+      <h1_hover>Mountain Whitefish</h1_hover>
     </div>
   </div>
 

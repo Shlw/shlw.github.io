@@ -11,4 +11,4 @@ author_profile: true
 
 ## Misc
 
-* <b>Sports:</b> Table tennis, badminton, billiards, fishing
+* <b>Sports:</b> Table tennis, badminton, fishing

@@ -7,6 +7,18 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+<b>PCPP-Based Reconfiguration Inapproximability: Query Complexity vs. Soundness Gap Trade-offs</b><br>
+Venkatesan Guruswami, Xuandi Ren, <b>Kewen Wu</b></br>
+[arXiv](https://arxiv.org/abs/2507.01192) &nbsp;&nbsp;&nbsp;&nbsp; 
+
+<b>(Sub)Exponential Quantum Speedup for Optimization</b><br>
+Jiaqi Leng, <b>Kewen Wu</b>, Xiaodi Wu, Yufan Zheng<br>
+[arXiv](https://arxiv.org/abs/2504.14841) &nbsp;&nbsp;&nbsp;&nbsp; 
+
+<b>Sunflowers and Ramsey problems for restricted intersections</b><br>
+Barnabás Janzer, Zhihan Jin, Benny Sudakov, <b>Kewen Wu</b><br>
+[arXiv](https://arxiv.org/abs/2504.15264) &nbsp;&nbsp;&nbsp;&nbsp; 
+
 <b>Locally Sampleable Uniform Symmetric Distributions</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
 <i>Symposium on Theory of Computing (STOC), 2025</i>.<br>
@@ -27,10 +39,11 @@ Fangqi Dong, Qipeng Liu, <b>Kewen Wu</b><br>
 <i>Annual International Cryptology Conference (CRYPTO), 2024</i>.<br>
 [arXiv](https://arxiv.org/abs/2405.20281) &nbsp;&nbsp;&nbsp;&nbsp; [ePrint](https://eprint.iacr.org/2024/831) &nbsp;&nbsp;&nbsp;&nbsp; [CRYPTO](https://link.springer.com/chapter/10.1007/978-3-031-68385-5_12)
 
-<b>Parameterized Inapproximability Hypothesis under Exponential Time Hypothesis</b><br>
+<b>Parameterized Inapproximability Hypothesis under ETH</b><br>
 Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
 <i>Symposium on Theory of Computing (STOC), 2024</i>. Best paper award<br>
-[arXiv](https://arxiv.org/abs/2311.16587) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2023/188/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3618260.3649771)
+<i>Journal of the ACM (JACM), 2025</i>.<br>
+[arXiv](https://arxiv.org/abs/2311.16587) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2023/188/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3618260.3649771) &nbsp;&nbsp;&nbsp;&nbsp; [JACM](https://dl.acm.org/doi/10.1145/3749982)
 
 <b>Locality Bounds for Sampling Hamming Slices</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
@@ -85,13 +98,13 @@ Xiaoming Sun, Yuan Sun, Jiaheng Wang, <b>Kewen Wu</b>, Zhiyu Xia, Yufan Zheng<br
 <b>Decision list compression by mild random restrictions</b><br>
 Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang<br>
 <i>Symposium on Theory of Computing (STOC), 2020</i>.<br>
-<i>Journal of the ACM (JACM), Vol. 68, No. 6, 2021</i>.<br>
+<i>Journal of the ACM (JACM), 2021</i>.<br>
 [arXiv](https://arxiv.org/abs/1909.10658) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/137/) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384241) &nbsp;&nbsp;&nbsp;&nbsp; [JACM](https://dl.acm.org/doi/10.1145/3485007)
 
 <b>Improved bounds for the sunflower lemma</b><br>
 Ryan Alweiss, Shachar Lovett, <b>Kewen Wu</b>, Jiapeng Zhang<br>
 <i>Symposium on Theory of Computing (STOC), 2020</i>. Best paper award<br>
-<i>Annals of Mathematics, Vol. 194, No. 3, 2021</i>.<br>
+<i>Annals of Mathematics, 2021</i>.<br>
 Frontiers of Science Award <i> at the International Congress of Basic Science, 2023</i>.<br>
 [arXiv](https://arxiv.org/abs/1908.08483) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2019/110/)  &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3357713.3384234) &nbsp;&nbsp;&nbsp;&nbsp; [Annals](https://annals.math.princeton.edu/2021/194-3/p05)
 
