@@ -7,6 +7,10 @@ author_profile: true
 
 [Locally Sampleable Uniform Symmetric Distributions](../slides/locallysample.pdf)<br>
 with Daniel M. Kane, Anthony Ostuni.<br>
+Postdoc short talk at Institute for Advanced Study, Sept 2025<br>
+Theory lunch at Princeton University, Sept 2025<br>
+Theory seminar at Rutgers University, Sept 2025<br>
+Theory lunch at Stanford University, Aug 2025<br>
 Theory seminar at University of California, San Diego, Jan 2025<br>
 Combinatorics and Probability seminar at University of California, Irvine, Jan 2025<br>
 Theory lunch at University of Southern California, Jan 2025<br>
