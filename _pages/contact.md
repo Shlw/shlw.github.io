@@ -8,7 +8,4 @@ author_profile: true
 ## Contact
 
 * Email: shlw_kevin [at] hotmail [dot] com
-
-## Misc
-
-* <b>Sports:</b> Table tennis, badminton, fishing
+* Office: 027 Simonyi Hall at IAS
