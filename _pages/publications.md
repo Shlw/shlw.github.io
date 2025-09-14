@@ -8,7 +8,7 @@ author_profile: true
 *All in alphabetic order and sorted by first publication date.*
 
 <b>PCPP-Based Reconfiguration Inapproximability: Query Complexity vs. Soundness Gap Trade-offs</b><br>
-Venkatesan Guruswami, Xuandi Ren, <b>Kewen Wu</b></br>
+Venkatesan Guruswami, Xuandi Ren, <b>Kewen Wu</b><br>
 [arXiv](https://arxiv.org/abs/2507.01192) &nbsp;&nbsp;&nbsp;&nbsp; 
 
 <b>(Sub)Exponential Quantum Speedup for Optimization</b><br>
