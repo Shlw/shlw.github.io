@@ -17,8 +17,8 @@ Daniel Grier, Daniel M. Kane, Jackson Morris, Anthony Ostuni, <b>Kewen Wu</b><br
 
 <b>PCPP-Based Reconfiguration Inapproximability: Query Complexity vs. Soundness Gap Trade-offs</b><br>
 Venkatesan Guruswami, Xuandi Ren, <b>Kewen Wu</b><br>
-[arXiv](https://arxiv.org/abs/2507.01192)
-Merged as<b>On Inapproximability of Reconfiguration Problems: PSPACE-Hardness and some Tight NP-Hardness Results</b><br>
+[arXiv](https://arxiv.org/abs/2507.01192)<br>
+Merged as <b>On Inapproximability of Reconfiguration Problems: PSPACE-Hardness and some Tight NP-Hardness Results</b><br>
 Venkatesan Guruswami, Karthik C. S., Pasin Manurangsi, Xuandi Ren, <b>Kewen Wu</b><br>
 [arXiv](https://arxiv.org/abs/2312.17140) &nbsp;&nbsp;&nbsp;&nbsp;
 
