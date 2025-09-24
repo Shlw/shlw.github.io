@@ -7,9 +7,20 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+<b>No exponential quantum speedup for $\mathrm{SIS}^\infty$ anymore</b><br>
+Robin Kothari, Ryan O'Donnell, <b>Kewen Wu</b><br>
+[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp;
+
+<b>Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals</b><br>
+Daniel Grier, Daniel M. Kane, Jackson Morris, Anthony Ostuni, <b>Kewen Wu</b><br>
+[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp;
+
 <b>PCPP-Based Reconfiguration Inapproximability: Query Complexity vs. Soundness Gap Trade-offs</b><br>
 Venkatesan Guruswami, Xuandi Ren, <b>Kewen Wu</b><br>
-[arXiv](https://arxiv.org/abs/2507.01192) &nbsp;&nbsp;&nbsp;&nbsp; 
+[arXiv](https://arxiv.org/abs/2507.01192)
+Merged as<b>On Inapproximability of Reconfiguration Problems: PSPACE-Hardness and some Tight NP-Hardness Results</b><br>
+Venkatesan Guruswami, Karthik C. S., Pasin Manurangsi, Xuandi Ren, <b>Kewen Wu</b><br>
+[arXiv](https://arxiv.org/abs/2312.17140) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>(Sub)Exponential Quantum Speedup for Optimization</b><br>
 Jiaqi Leng, <b>Kewen Wu</b>, Xiaodi Wu, Yufan Zheng<br>
