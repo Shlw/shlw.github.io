@@ -9,11 +9,11 @@ author_profile: true
 
 <b>No exponential quantum speedup for $\mathrm{SIS}^\infty$ anymore</b><br>
 Robin Kothari, Ryan O'Donnell, <b>Kewen Wu</b><br>
-[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp;
+[arXiv](https://arxiv.org/abs/2510.07515) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals</b><br>
 Daniel Grier, Daniel M. Kane, Jackson Morris, Anthony Ostuni, <b>Kewen Wu</b><br>
-[arXiv]() &nbsp;&nbsp;&nbsp;&nbsp;
+[arXiv](https://arxiv.org/abs/2510.07808) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>PCPP-Based Reconfiguration Inapproximability: Query Complexity vs. Soundness Gap Trade-offs</b><br>
 Venkatesan Guruswami, Xuandi Ren, <b>Kewen Wu</b><br>
