@@ -43,7 +43,8 @@ Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
 <b>Quantum State Preparation with Optimal T-Count</b><br>
 David Gosset, Robin Kothari, <b>Kewen Wu</b><br>
 <i>Quantum Information Processing (QIP), 2025</i>. Parallel talk<br>
-[arXiv](https://arxiv.org/abs/2411.04790) &nbsp;&nbsp;&nbsp;&nbsp; 
+<i>Symposium on Discrete Algorithms (SODA), 2026</i>.<br>
+[arXiv](https://arxiv.org/abs/2411.04790) &nbsp;&nbsp;&nbsp;&nbsp; [SODA]()
 
 <b>Tight Characterizations for Preprocessing against Cryptographic Salting</b><br>
 Fangqi Dong, Qipeng Liu, <b>Kewen Wu</b><br>

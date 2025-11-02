@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+[No exponential quantum speedup for $\mathrm{SIS}^\infty$ anymore](../slides/dequant.pdf)<br>
+with Robin Kothari, Ryan O'Donnell.<br>
+CSDM seminar at Institute for Advanced Study, Nov 2025
+
 [Locally Sampleable Uniform Symmetric Distributions](../slides/locallysample.pdf)<br>
 with Daniel M. Kane, Anthony Ostuni.<br>
 Postdoc short talk at Institute for Advanced Study, Sept 2025<br>
