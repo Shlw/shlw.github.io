@@ -7,13 +7,19 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+<b>Symmetric Distributions from Shallow Circuits</b><br>
+Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
+[arXiv](https://arxiv.org/abs/2511.14127v1) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2025/183/) &nbsp;&nbsp;&nbsp;&nbsp; 
+
 <b>No exponential quantum speedup for $\mathrm{SIS}^\infty$ anymore</b><br>
 Robin Kothari, Ryan O'Donnell, <b>Kewen Wu</b><br>
 [arXiv](https://arxiv.org/abs/2510.07515) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <b>Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals</b><br>
 Daniel Grier, Daniel M. Kane, Jackson Morris, Anthony Ostuni, <b>Kewen Wu</b><br>
-[arXiv](https://arxiv.org/abs/2510.07808) &nbsp;&nbsp;&nbsp;&nbsp;
+<i>Quantum Information Processing (QIP), 2026</i>. Parallel talk<br>
+<i>Innovations in Theoretical Computer Science Conference (ITCS), 2026</i>.<br>
+[arXiv](https://arxiv.org/abs/2510.07808) &nbsp;&nbsp;&nbsp;&nbsp; [ITCS]()
 
 <b>PCPP-Based Reconfiguration Inapproximability: Query Complexity vs. Soundness Gap Trade-offs</b><br>
 Venkatesan Guruswami, Xuandi Ren, <b>Kewen Wu</b><br>
