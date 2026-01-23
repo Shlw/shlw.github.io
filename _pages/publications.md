@@ -7,6 +7,10 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+<b>$\mathsf{QAC}^0$ Contains $\mathsf{TC}^0$ (with Many Copies of the Input)</b><br>
+Daniel Grier, Jackson Morris, <b>Kewen Wu</b><br>
+[arXiv](https://arxiv.org/abs/2601.03243v1) &nbsp;&nbsp;&nbsp;&nbsp;
+
 <b>Symmetric Distributions from Shallow Circuits</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
 [arXiv](https://arxiv.org/abs/2511.14127v1) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2025/183/) &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -19,7 +23,7 @@ Robin Kothari, Ryan O'Donnell, <b>Kewen Wu</b><br>
 Daniel Grier, Daniel M. Kane, Jackson Morris, Anthony Ostuni, <b>Kewen Wu</b><br>
 <i>Quantum Information Processing (QIP), 2026</i>. Parallel talk<br>
 <i>Innovations in Theoretical Computer Science Conference (ITCS), 2026</i>.<br>
-[arXiv](https://arxiv.org/abs/2510.07808) &nbsp;&nbsp;&nbsp;&nbsp; [ITCS]()
+[arXiv](https://arxiv.org/abs/2510.07808) &nbsp;&nbsp;&nbsp;&nbsp; [ITCS](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2026.73)
 
 <b>PCPP-Based Reconfiguration Inapproximability: Query Complexity vs. Soundness Gap Trade-offs</b><br>
 Venkatesan Guruswami, Xuandi Ren, <b>Kewen Wu</b><br>
