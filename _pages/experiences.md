@@ -31,6 +31,10 @@ author_profile: true
 * <b>Google Research, Mountain View</b><span style="float:right;"> Jun 2022 - Aug 2022 </span>
     * Student Researcher on differential privacy hosted by [Pritish Kamath](https://pritishkamath.github.io/)
 
+## Service
+
+* PC of FOCS'26.
+
 ## Teaching
 
 * TA of [*Discrete Mathematics and Probability Theory*](https://www.eecs70.org/)  <span style="float:right;">University of California, Berkeley, Spring 2024</span>

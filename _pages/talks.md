@@ -9,7 +9,8 @@ author_profile: true
 with Robin Kothari, Ryan O'Donnell.<br>
 CSDM seminar at Institute for Advanced Study, Nov 2025<br>
 RISC seminar at Centrum Wiskunde & Informatica (CWI), Jan 2026<br>
-Theory seminar at Columbia University, Feb 2026
+Theory seminar at Columbia University, Feb 2026<br>
+Symposium on Theory of Computing (STOC), Jun 2026
 
 
 [Locally Sampleable Uniform Symmetric Distributions](../slides/locallysample.pdf)<br>
