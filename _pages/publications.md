@@ -18,7 +18,7 @@ Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
 <b>No exponential quantum speedup for $\mathrm{SIS}^\infty$ anymore</b><br>
 Robin Kothari, Ryan O'Donnell, <b>Kewen Wu</b><br>
 <i>Symposium on Theory of Computing (STOC), 2026</i>.<br>
-[arXiv](https://arxiv.org/abs/2510.07515) &nbsp;&nbsp;&nbsp;&nbsp; [STOC]()
+[arXiv](https://arxiv.org/abs/2510.07515) &nbsp;&nbsp;&nbsp;&nbsp; [STOC](https://dl.acm.org/doi/10.1145/3798129.3800731)
 
 <b>Quantum Advantage from Sampling Shallow Circuits: Beyond Hardness of Marginals</b><br>
 Daniel Grier, Daniel M. Kane, Jackson Morris, Anthony Ostuni, <b>Kewen Wu</b><br>
