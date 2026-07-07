@@ -9,11 +9,13 @@ author_profile: true
 
 <b>$\mathsf{QAC}^0$ Contains $\mathsf{TC}^0$ (with Many Copies of the Input)</b><br>
 Daniel Grier, Jackson Morris, <b>Kewen Wu</b><br>
-[arXiv](https://arxiv.org/abs/2601.03243v1) &nbsp;&nbsp;&nbsp;&nbsp;
+<i>Symposium on Foundations of Computer Science (FOCS), 2026</i>.<br>
+[arXiv](https://arxiv.org/abs/2601.03243v1) &nbsp;&nbsp;&nbsp;&nbsp; [FOCS]()
 
 <b>Symmetric Distributions from Shallow Circuits</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
-[arXiv](https://arxiv.org/abs/2511.14127v1) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2025/183/) &nbsp;&nbsp;&nbsp;&nbsp; 
+<i>International Conference on Randomization and Computation (RANDOM), 2026</i>.<br>
+[arXiv](https://arxiv.org/abs/2511.14127v1) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2025/183/) &nbsp;&nbsp;&nbsp;&nbsp; [RANDOM]()
 
 <b>No exponential quantum speedup for $\mathrm{SIS}^\infty$ anymore</b><br>
 Robin Kothari, Ryan O'Donnell, <b>Kewen Wu</b><br>
@@ -39,6 +41,7 @@ Jiaqi Leng, <b>Kewen Wu</b>, Xiaodi Wu, Yufan Zheng<br>
 
 <b>Sunflowers and Ramsey problems for restricted intersections</b><br>
 Barnabás Janzer, Zhihan Jin, Benny Sudakov, <b>Kewen Wu</b><br>
+<i>Combinatorica, 2026</i>.<br>
 [arXiv](https://arxiv.org/abs/2504.15264) &nbsp;&nbsp;&nbsp;&nbsp; 
 
 <b>Locally Sampleable Uniform Symmetric Distributions</b><br>
@@ -55,7 +58,8 @@ Venkatesan Guruswami, Bingkai Lin, Xuandi Ren, Yican Sun, <b>Kewen Wu</b><br>
 David Gosset, Robin Kothari, <b>Kewen Wu</b><br>
 <i>Quantum Information Processing (QIP), 2025</i>. Parallel talk<br>
 <i>Symposium on Discrete Algorithms (SODA), 2026</i>.<br>
-[arXiv](https://arxiv.org/abs/2411.04790) &nbsp;&nbsp;&nbsp;&nbsp; [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611978971.122)
+<i>Quantum, 2026</i>.<br>
+[arXiv](https://arxiv.org/abs/2411.04790) &nbsp;&nbsp;&nbsp;&nbsp; [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611978971.122) &nbsp;&nbsp;&nbsp;&nbsp; [Quantum]()
 
 <b>Tight Characterizations for Preprocessing against Cryptographic Salting</b><br>
 Fangqi Dong, Qipeng Liu, <b>Kewen Wu</b><br>

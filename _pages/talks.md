@@ -12,7 +12,8 @@ Theory lunch at Princeton University, Mar 2026
 CSDM seminar at Institute for Advanced Study, Nov 2025<br>
 RISC seminar at Centrum Wiskunde & Informatica (CWI), Jan 2026<br>
 Theory seminar at Columbia University, Feb 2026<br>
-Symposium on Theory of Computing (STOC), Jun 2026
+Symposium on Theory of Computing (STOC), Jun 2026<br>
+Breaking Post-Quantum Crypto workshop at Simons Institute, Jul 2026
 
 
 [Locally Sampleable Uniform Symmetric Distributions](../slides/locallysample.pdf)<br>
