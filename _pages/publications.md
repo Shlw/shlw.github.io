@@ -59,7 +59,7 @@ David Gosset, Robin Kothari, <b>Kewen Wu</b><br>
 <i>Quantum Information Processing (QIP), 2025</i>. Parallel talk<br>
 <i>Symposium on Discrete Algorithms (SODA), 2026</i>.<br>
 <i>Quantum, 2026</i>.<br>
-[arXiv](https://arxiv.org/abs/2411.04790) &nbsp;&nbsp;&nbsp;&nbsp; [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611978971.122) &nbsp;&nbsp;&nbsp;&nbsp; [Quantum]()
+[arXiv](https://arxiv.org/abs/2411.04790) &nbsp;&nbsp;&nbsp;&nbsp; [SODA](https://epubs.siam.org/doi/abs/10.1137/1.9781611978971.122) &nbsp;&nbsp;&nbsp;&nbsp; [Quantum](https://quantum-journal.org/papers/q-2026-07-22-2168/)
 
 <b>Tight Characterizations for Preprocessing against Cryptographic Salting</b><br>
 Fangqi Dong, Qipeng Liu, <b>Kewen Wu</b><br>

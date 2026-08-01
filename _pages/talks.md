@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+[Locally Sampleable Distributions: Hamming slices, symmetry, and quantum advantage](../slides/locally-sample-workshop.pdf)<br>
+Synergies in Combinatorics and Theoretical Computer Science conference, Aug 2026
+
+
 [$\mathsf{QAC}^0$ Contains $\mathsf{TC}^0$ (with Many Copies of the Input)](../slides/qac0.pdf)<br>
 Theory lunch at Princeton University, Mar 2026
 

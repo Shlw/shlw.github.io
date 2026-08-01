@@ -19,8 +19,11 @@ author_profile: true
 
 ## Work 
 
+* <b>California Institute of Technology</b><span style="float:right;"> Jul 2026 - Now </span>
+    * Assistant professor at [the Computing + Mathematical Sciences (CMS) Department](https://www.cms.caltech.edu/)
+
 * <b>Institute for Advanced Study, Princeton</b><span style="float:right;"> Sept 2025 - Jun 2026 </span>
-    * Postdoc member at the [School of Mathematics](https://www.ias.edu/math)
+    * Postdoc member at [the School of Mathematics](https://www.ias.edu/math) hosted by [Irit Dinur](https://www.wisdom.weizmann.ac.il/~dinuri/index.html) and [Avi Wigderson](https://www.math.ias.edu/avi/home)
 
 * <b>Google Quantum AI, Los Angeles</b><span style="float:right;"> Jun 2024 - Apr 2025 </span>
     * Student Researcher on quantum computing hosted by [Robin Kothari](https://www.robinkothari.com/)
