@@ -36,7 +36,7 @@ author_profile: true
 
 ## Service
 
-* PC of FOCS'26.
+* PC of FOCS'26, SOSA'27, ITCS'27, STOC'27, QIP'27.
 
 ## Teaching
 
