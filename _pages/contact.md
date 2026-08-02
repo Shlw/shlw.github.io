@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 * Email: shlw_kevin [at] hotmail [dot] com
-* Office: 027 Simonyi Hall at IAS
+* Office: Annenberg 210
