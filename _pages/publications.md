@@ -42,7 +42,7 @@ Jiaqi Leng, <b>Kewen Wu</b>, Xiaodi Wu, Yufan Zheng<br>
 <b>Sunflowers and Ramsey problems for restricted intersections</b><br>
 Barnabás Janzer, Zhihan Jin, Benny Sudakov, <b>Kewen Wu</b><br>
 <i>Combinatorica, 2026</i>.<br>
-[arXiv](https://arxiv.org/abs/2504.15264) &nbsp;&nbsp;&nbsp;&nbsp; 
+[arXiv](https://arxiv.org/abs/2504.15264) &nbsp;&nbsp;&nbsp;&nbsp; [Comb](https://link.springer.com/article/10.1007/s00493-026-00222-1)
 
 <b>Locally Sampleable Uniform Symmetric Distributions</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
