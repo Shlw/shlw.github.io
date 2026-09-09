@@ -15,7 +15,7 @@ Daniel Grier, Jackson Morris, <b>Kewen Wu</b><br>
 <b>Symmetric Distributions from Shallow Circuits</b><br>
 Daniel Kane, Anthony Ostuni, <b>Kewen Wu</b><br>
 <i>International Conference on Randomization and Computation (RANDOM), 2026</i>.<br>
-[arXiv](https://arxiv.org/abs/2511.14127v1) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2025/183/) &nbsp;&nbsp;&nbsp;&nbsp; [RANDOM]()
+[arXiv](https://arxiv.org/abs/2511.14127v1) &nbsp;&nbsp;&nbsp;&nbsp; [ECCC](https://eccc.weizmann.ac.il/report/2025/183/) &nbsp;&nbsp;&nbsp;&nbsp; [RANDOM](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.APPROX/RANDOM.2026.53)
 
 <b>No exponential quantum speedup for $\mathrm{SIS}^\infty$ anymore</b><br>
 Robin Kothari, Ryan O'Donnell, <b>Kewen Wu</b><br>
