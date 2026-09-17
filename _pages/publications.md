@@ -7,6 +7,10 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+<b>Improved lower bounds for decomposable randomized encoding</b><br>
+Justin Holmgren, <b>Kewen Wu</b><br>
+[arXiv](https://arxiv.org/abs/2609.18020) &nbsp;&nbsp;&nbsp;&nbsp;
+
 <b>$\mathsf{QAC}^0$ Contains $\mathsf{TC}^0$ (with Many Copies of the Input)</b><br>
 Daniel Grier, Jackson Morris, <b>Kewen Wu</b><br>
 <i>Symposium on Foundations of Computer Science (FOCS), 2026</i>.<br>
