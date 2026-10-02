@@ -7,6 +7,18 @@ author_profile: true
 
 *All in alphabetic order and sorted by first publication date.*
 
+<b>The Robustness of $\mathsf{QAC}^0$</b><br>
+Daniel Grier, Jackson Morris, <b>Kewen Wu</b><br>
+[arXiv](https://arxiv.org/abs/2610.02154) &nbsp;&nbsp;&nbsp;&nbsp;
+
+<b>Exponential quantum advantages for decoded quantum interferometry in the streaming setting</b><br>
+<b>Kewen Wu</b>, Guangxu Yang<br>
+[arXiv](https://arxiv.org/abs/2610.01902) &nbsp;&nbsp;&nbsp;&nbsp;
+
+<b>Exponential quantum speedup for $\mathbb{F}_3^n$-Subset-Sum? Or, rigorous classical algorithms for Binary-Error LWE</b><br>
+Robin Kothari, Tony Metger, Ryan O'Donnell, Noah Shutty, <b>Kewen Wu</b><br>
+[arXiv](https://arxiv.org/abs/2609.40321) &nbsp;&nbsp;&nbsp;&nbsp;
+
 <b>Improved lower bounds for decomposable randomized encoding</b><br>
 Justin Holmgren, <b>Kewen Wu</b><br>
 [arXiv](https://arxiv.org/abs/2609.18020) &nbsp;&nbsp;&nbsp;&nbsp;
