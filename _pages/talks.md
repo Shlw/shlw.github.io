@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+[Global structure, local constraints, and quantum advantages: multiplying quantum states to solve classical problems](../slides/mult-state.pdf)<br>
+Keller Colloquium at Caltech, Oct 2026
+
 [$\mathsf{QAC}^0$ and parity](../slides/qac0+.pdf)<br>
 Theory tea at Caltech, Oct 2026
 
